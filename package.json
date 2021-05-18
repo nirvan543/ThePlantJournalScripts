@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^9.0.2",
     "g-i-s": "^2.1.6",
     "image-search-engine": "^1.2.0",
     "node-fetch": "^2.6.1",

@@ -1,6 +1,7 @@
-const plantService = require("./plant_service");
-const imageService = require("./image_service");
+const plantService = require("./services/plant_service");
+const imageService = require("./services/image_service");
 const { v4: uuidv4 } = require("uuid");
+require("dotenv").config();
 
 // Step 1: Read each plant name from the processed json file -- CHECK
 // Step 2: Perform a Google image search and get the URL for one of the images returned -- CHECK
@@ -13,9 +14,9 @@ let failed = [];
 let successful = [];
 
 const inputFile = "./assets/plant_list_processed.json";
-const outputPlantsFile = "./assets/runs/plants_3.json";
-const outputFailureFile = "./assets/runs/failure_3.json";
-const outputSuccessFile = "./assets/runs/success_3.json";
+const outputPlantsFile = "./assets/runs/plants_4.json";
+const outputFailureFile = "./assets/runs/failure_4.json";
+const outputSuccessFile = "./assets/runs/success_4.json";
 
 async function mainAsync() {
     let plantNames = await plantService.readPlantsAsync(inputFile);
@@ -89,6 +90,7 @@ async function mainAsync() {
 
         console.log(`SUCCESS | ${plantName}`);
 
+        // Sleep for 1 second to avoid overloading the services
         await sleepAsync(1000);
     }
 }

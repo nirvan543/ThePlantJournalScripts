@@ -43,10 +43,59 @@ function getPlantAbbreviation(plantName) {
     }
 }
 
+/**
+ * 
+ * @param {Array} rawPlants 
+ * @returns {Array}
+ */
+function processRawPlants(rawPlants) {
+    let processedPlants = [];
+
+    rawPlants.forEach(plant => {
+        if (plant == "") {
+            return;
+        }
+
+        let parenIndex = plant.indexOf("(");
+
+        if (parenIndex < 0) {
+            let plantName = plant.trim();
+
+            if (!processedPlants.includes(plantName)) {
+                processedPlants.push(plantName);
+            }
+        } else {
+            let plantName = plant.substring(0, parenIndex).trim();
+
+            if (!processedPlants.includes(plantName)) {
+                processedPlants.push(plantName);
+            }
+        }
+    });
+
+    processedPlants.sort();
+
+    return processedPlants;
+}
+
+/**
+ * 
+ * @param {string} filePath 
+ * @param {string} splitWith 
+ * @returns {Array}
+ */
+async function readRawPlantsAsync(filePath, splitWith = "\n") {
+    let rawPlants = await fs.readFile(filePath, "utf-8").split(splitWith);
+
+    return rawPlants;
+}
+
 module.exports = {
     readPlantsAsync,
     writePlantsAsync,
     writeSuccessfulPlantsAsync,
     writeFailedPlantsAsync,
     getPlantAbbreviation,
+    processRawPlants,
+    readRawPlantsAsync
 };
