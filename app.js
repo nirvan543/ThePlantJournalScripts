@@ -12,10 +12,10 @@ let plants = [];
 let failed = [];
 let successful = [];
 
-const inputFile = "./assets/runs/failure_1.json";
-const outputPlantsFile = "./assets/runs/plants_2.json";
-const outputFailureFile = "./assets/runs/failure_2.json";
-const outputSuccessFile = "./assets/runs/success_2.json";
+const inputFile = "./assets/plant_list_processed.json";
+const outputPlantsFile = "./assets/runs/plants_3.json";
+const outputFailureFile = "./assets/runs/failure_3.json";
+const outputSuccessFile = "./assets/runs/success_3.json";
 
 async function mainAsync() {
     let plantNames = await plantService.readPlantsAsync(inputFile);
@@ -85,12 +85,23 @@ async function mainAsync() {
         });
 
         successful.push(plantName);
+        await persistDataAsync();
 
         console.log(`SUCCESS | ${plantName}`);
 
         await sleepAsync(1000);
     }
+}
 
+function handleFailure(plantName) {
+    failed.push(plantName);
+}
+
+function sleepAsync(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function persistDataAsync() {
     try {
         await plantService.writePlantsAsync(outputPlantsFile, plants);
     } catch (e) {
@@ -108,14 +119,6 @@ async function mainAsync() {
     } catch (e) {
         console.log("Error when persisting the successful plants: ", e);
     }
-}
-
-function handleFailure(plantName) {
-    failed.push(plantName);
-}
-
-function sleepAsync(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 mainAsync().then(() => {

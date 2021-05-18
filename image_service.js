@@ -1,7 +1,7 @@
 
 const gis = require("g-i-s");
-const sightEngine = require("sightengine")("1077382482", "TCYZwqEz7XC4gmwr3Sgy");
-// const sightEngine = require("sightengine")("711445624", "kTGwWcRokKqt8uyz8pW6");
+// const sightEngine = require("sightengine")("1077382482", "TCYZwqEz7XC4gmwr3Sgy");
+const sightEngine = require("sightengine")("711445624", "kTGwWcRokKqt8uyz8pW6");
 
 /**
  * 
