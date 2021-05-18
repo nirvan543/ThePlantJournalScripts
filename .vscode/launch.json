@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/process_plant_color.js"
+            "program": "${workspaceFolder}/app.js"
         }
     ]
 }

@@ -1,75 +1,7 @@
-// Step 1: Read each plant name from the processed json file -- CHECK
-// Step 2: Perform a Google image search and get the URL for one of the images returned
-// Step 3: Pass the image URL to the color analyzer library to get the primary colors
-// Step 4: Create the Plant object
-// Step 5: Write the list of plants to a json file
 
-const fs = require('fs');
-// const sightEngine = require('sightengine')('1077382482', 'TCYZwqEz7XC4gmwr3Sgy');
-const sightEngine = require('sightengine')('711445624', 'kTGwWcRokKqt8uyz8pW6');
-const gis = require('g-i-s');
-const { v4: uuidv4 } = require('uuid');
 
-function getPlantAbbreviation(plantName) {
-    const firstSpaceIndex = plantName.trim().indexOf(' ');
 
-    var firstChar = plantName.substring(0, 1);
-
-    if (firstSpaceIndex > 0) {
-        var secondChar = plantName.substring(firstSpaceIndex + 1, firstSpaceIndex + 2);
-
-        return firstChar.toUpperCase() + secondChar.toUpperCase();
-    } else {
-        return firstChar.toUpperCase();
-    }
-}
-
-function printPlantInfos(numProcessed) {
-    if (numProcessed == plantNames.length) {
-        fs.writeFileSync("./assets/runs/plant_infos.json", JSON.stringify(plantInfos), function (err) {
-            if (err) {
-                console.error('Crap happens');
-            }
-        });
-
-        fs.writeFileSync("./assets/runs/success.json", JSON.stringify(successPlants), function (err) {
-            if (err) {
-                console.error('Crap happens');
-            }
-        });
-
-        fs.writeFileSync("./assets/runs/failure.json", JSON.stringify(failedPlants), function (err) {
-            if (err) {
-                console.error('Crap happens');
-            }
-        });
-    }
-}
-
-function wait(ms) {
-    let start = Date.now();
-    let now = start;
-    while (now - start < ms) {
-        now = Date.now();
-    }
-}
-
-const plantNamesData = fs.readFileSync('./assets/runs/failure_1.json');
-const plantNames = JSON.parse(plantNamesData);
-
-let successPlants = [];
-let failedPlants = [];
-let plantInfos = [];
-
-let numProcessed = 0;
-
-function gisCallback(error, results) {
-    console.log("Error: ", error);
-    console.log("Results: ", results);
-}
-
-// gis("cat", gisCallback)
-
+/*
 plantNames.forEach(plant => {
     gis(plant, function (imageError, imageResults) {
         if (imageResults === null || imageResults === undefined) {
@@ -81,7 +13,7 @@ plantNames.forEach(plant => {
             printPlantInfos(numProcessed);
         }
         else {
-            if (imageResults.count > 0) {
+            if (imageResults.count > 0) { // TODO change this to `length`!!!
                 let firstImageResult = imageResults[0];
 
                 sightEngine.check(['properties']).set_url(firstImageResult.url).then(function (colorResult) {
@@ -101,7 +33,7 @@ plantNames.forEach(plant => {
                             blue: colorResult.colors.dominant.b,
                             alpha: 1.0
                         }
-                    })
+                    });
 
                     successPlants.push(plant);
                     numProcessed++;
@@ -128,6 +60,7 @@ plantNames.forEach(plant => {
         }
     });
 });
+*/
 
 /*
 let numProcessed = 0;
