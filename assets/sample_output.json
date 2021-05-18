@@ -1,0 +1,19 @@
+[
+    {
+        "id": "a7d109a4-639a-48cf-98a3-38bee689eb3a",
+        "name": "Acerola",
+        "abbreviation": "A",
+        "color": {
+            "red": 60,
+            "green": 58,
+            "blue": 59,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 60,
+            "green": 58,
+            "blue": 59,
+            "alpha": 1
+        }
+    }
+]
