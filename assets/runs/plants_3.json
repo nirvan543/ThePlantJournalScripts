@@ -7039,8 +7039,25 @@
     },
     {
         "id": "0f037d9f-fa14-4bd1-9191-80e2922ab629",
-        "name": "Yuca/Cassava",
+        "name": "Yuca",
         "abbreviation": "Y",
+        "color": {
+            "red": 174,
+            "green": 154,
+            "blue": 134,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 174,
+            "green": 154,
+            "blue": 134,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "93cc0b90-a049-49d0-8753-e2393de1517a",
+        "name": "Cassava",
+        "abbreviation": "C",
         "color": {
             "red": 174,
             "green": 154,
