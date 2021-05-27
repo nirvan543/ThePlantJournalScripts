@@ -1,0 +1,6 @@
+[
+    {
+        "plant": "Parsnips",
+        "error": "ERROR | Parsnips | Error retrieving image results | {\"errno\":\"ETIMEDOUT\",\"code\":\"ETIMEDOUT\",\"syscall\":\"connect\",\"address\":\"64.233.185.106\",\"port\":80}"
+    }
+]

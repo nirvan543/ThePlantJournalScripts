@@ -1,7 +1,8 @@
+require("dotenv").config();
+
 const plantService = require("./services/plant_service");
 const imageService = require("./services/image_service");
 const { v4: uuidv4 } = require("uuid");
-require("dotenv").config();
 
 // Step 1: Read each plant name from the processed json file -- CHECK
 // Step 2: Perform a Google image search and get the URL for one of the images returned -- CHECK
@@ -11,15 +12,19 @@ require("dotenv").config();
 
 let plants = [];
 let failed = [];
-let successful = [];
 
-const inputFile = "./assets/plant_list_processed.json";
-const outputPlantsFile = "./assets/runs/plants_4.json";
-const outputFailureFile = "./assets/runs/failure_4.json";
-const outputSuccessFile = "./assets/runs/success_4.json";
+const inputFile = "./assets/raw_plants.txt";
 
 async function mainAsync() {
-    let plantNames = await plantService.readPlantsAsync(inputFile);
+    let rawPlants = await plantService.readRawPlantsAsync(inputFile);
+    let plantNames = plantService.processRawPlants(rawPlants);
+
+    const dateString = new Date().toLocaleString().replace("/", "-").replace("/", "-");
+    const folderName = `./runs/${dateString}`;
+    const processedPlantsFile = `${folderName}/processed_plants.json`;
+
+    await plantService.createFolderAsync(folderName);
+    await plantService.writePlantsAsync(processedPlantsFile, plantNames);
 
     for (let i = 0; i < plantNames.length; i++) {
         const plantName = plantNames[i];
@@ -29,15 +34,19 @@ async function mainAsync() {
         try {
             imageResults = await imageService.getImageResultsAsync(plantName);
         } catch (e) {
-            console.log(`ERROR | ${plantName} | Error retrieving image results | ${JSON.stringify(e)}`);
-            handleFailure(plantName);
+            const message = `ERROR | ${plantName} | Error retrieving image results | ${JSON.stringify(e)}`;
+
+            console.log(message);
+            handleFailure(plantName, message);
 
             continue;
         }
 
         if (!imageResults || imageResults.length === 0) {
-            console.log(`ERROR | ${plantName} | imageResults is either undefined/null or empty | ${imageResults}`);
-            handleFailure(plantName);
+            const message = `ERROR | ${plantName} | imageResults is either undefined/null or empty | ${imageResults}`;
+
+            console.log(message);
+            handleFailure(plantName, message);
 
             continue;
         }
@@ -51,20 +60,49 @@ async function mainAsync() {
 
                 if (colorResult.status === "success") {
                     break;
+                } else if (colorResult.status === "failure") {
+                    const message = `WARN | ${plantName} | Error retrieving color results | ${JSON.stringify(colorResult.error)}`;
+
+                    console.log(message);
+                } else {
+                    const message = `WARN | ${plantName} | Not a success or a failure`;
+
+                    console.log(message);
                 }
             }
         } catch (e) {
-            console.log(`ERROR | ${plantName} | Error retrieving color results | ${JSON.stringify(e)}`);
-            handleFailure(plantName);
+            const message = `ERROR | ${plantName} | Error retrieving color results | ${JSON.stringify(e)}`;
+
+            console.log(message);
+            handleFailure(plantName, message);
 
             continue;
         }
 
         if (!colorResult || colorResult.status === "failure") {
-            console.log(`ERROR | ${plantName} | colorResult is undefined/null or the result is marked as 'failure' | ${colorResult}`);
+            const message = `ERROR | ${plantName} | colorResult is undefined/null or the result is marked as 'failure' | ${colorResult}`;
+
+            console.log(message);
             handleFailure(plantName);
 
             continue;
+        }
+
+        let red;
+        let green;
+        let blue;
+        const alpha = 1.0;
+
+        const accentColors = colorResult.colors.accent;
+
+        if (Array.isArray(accentColors) && accentColors.length > 0) {
+            red = accentColors[0].r;
+            green = accentColors[0].g;
+            blue = accentColors[0].b;
+        } else {
+            red = colorResult.colors.dominant.r;
+            green = colorResult.colors.dominant.g;
+            blue = colorResult.colors.dominant.b;
         }
 
         plants.push({
@@ -72,54 +110,64 @@ async function mainAsync() {
             name: plantName,
             abbreviation: plantService.getPlantAbbreviation(plantName),
             color: {
-                red: colorResult.colors.dominant.r,
-                green: colorResult.colors.dominant.g,
-                blue: colorResult.colors.dominant.b,
-                alpha: 1.0
+                red: red,
+                green: green,
+                blue: blue,
+                alpha: alpha
             },
             shadowColor: {
-                red: colorResult.colors.dominant.r,
-                green: colorResult.colors.dominant.g,
-                blue: colorResult.colors.dominant.b,
-                alpha: 1.0
+                red: red,
+                green: green,
+                blue: blue,
+                alpha: alpha
             }
         });
 
-        successful.push(plantName);
-        await persistDataAsync();
+        await persistDataAsync(folderName);
 
         console.log(`SUCCESS | ${plantName}`);
 
+        // Sleep for 1 second for every 10 plants processed.
+        if (i % 10 == 0) {
+            await sleepAsync(1000);
+        }
+
         // Sleep for 1 second to avoid overloading the services
-        await sleepAsync(1000);
+        // await sleepAsync(1000);
     }
 }
 
-function handleFailure(plantName) {
-    failed.push(plantName);
+/**
+ * 
+ * @param {String} plantName 
+ * @param {String} errorMessage 
+ */
+function handleFailure(plantName, errorMessage) {
+    failed.push({
+        plant: plantName,
+        error: errorMessage
+    });
 }
 
 function sleepAsync(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-async function persistDataAsync() {
+/**
+ * 
+ * @param {String} folderName 
+ */
+async function persistDataAsync(folderName) {
     try {
-        await plantService.writePlantsAsync(outputPlantsFile, plants);
+        await plantService.writePlantsAsync(`${folderName}/plants.json`, plants);
     } catch (e) {
         console.log("Error when persisting the plant infos: ", e);
     }
 
     try {
-        await plantService.writeFailedPlantsAsync(outputFailureFile, failed);
+        await plantService.writeFailedPlantsAsync(`${folderName}/failure.json`, failed);
     } catch (e) {
         console.log("Error when persisting the failed plants: ", e);
-    }
-
-    try {
-        await plantService.writeSuccessfulPlantsAsync(outputSuccessFile, successful);
-    } catch (e) {
-        console.log("Error when persisting the successful plants: ", e);
     }
 }
 

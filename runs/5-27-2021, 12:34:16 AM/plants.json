@@ -1,0 +1,6666 @@
+[
+    {
+        "id": "42d1914d-2aa3-495f-8be6-78e4b3e81db0",
+        "name": "Acerola",
+        "abbreviation": "A",
+        "color": {
+            "red": 208,
+            "green": 34,
+            "blue": 43,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 208,
+            "green": 34,
+            "blue": 43,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "a1ef8175-ee9f-49f3-90c3-c477e5b3a2f2",
+        "name": "Ackee",
+        "abbreviation": "A",
+        "color": {
+            "red": 196,
+            "green": 93,
+            "blue": 29,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 196,
+            "green": 93,
+            "blue": 29,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d128cfba-167a-4284-88a3-bbf0f0046df1",
+        "name": "Acorn Squash",
+        "abbreviation": "AS",
+        "color": {
+            "red": 202,
+            "green": 172,
+            "blue": 21,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 202,
+            "green": 172,
+            "blue": 21,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "05839be8-81bb-4d83-974e-a0777c417d29",
+        "name": "Acorns",
+        "abbreviation": "A",
+        "color": {
+            "red": 164,
+            "green": 71,
+            "blue": 24,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 164,
+            "green": 71,
+            "blue": 24,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "a9c43f06-f70a-4d89-a9f5-c9d3eaf80653",
+        "name": "Ajwain",
+        "abbreviation": "A",
+        "color": {
+            "red": 150,
+            "green": 122,
+            "blue": 82,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 150,
+            "green": 122,
+            "blue": 82,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7768f866-adc0-4868-a479-3b5c0ea0c884",
+        "name": "Alfalfa Sprouts",
+        "abbreviation": "AS",
+        "color": {
+            "red": 166,
+            "green": 159,
+            "blue": 41,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 166,
+            "green": 159,
+            "blue": 41,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "4ac31eb5-a229-467b-b01d-6bae5cb40076",
+        "name": "Almonds",
+        "abbreviation": "A",
+        "color": {
+            "red": 145,
+            "green": 78,
+            "blue": 31,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 145,
+            "green": 78,
+            "blue": 31,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "4e548286-b9fa-4d21-b62a-0c3450a7256f",
+        "name": "Aloe Vera",
+        "abbreviation": "AV",
+        "color": {
+            "red": 69,
+            "green": 123,
+            "blue": 31,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 69,
+            "green": 123,
+            "blue": 31,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "9753c01f-dd89-471e-95f5-0353e27eca95",
+        "name": "Amanatsu",
+        "abbreviation": "A",
+        "color": {
+            "red": 226,
+            "green": 142,
+            "blue": 15,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 226,
+            "green": 142,
+            "blue": 15,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "86c1e746-69fc-4ff5-83e4-a9b485ecc78a",
+        "name": "Amaranth",
+        "abbreviation": "A",
+        "color": {
+            "red": 139,
+            "green": 90,
+            "blue": 48,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 139,
+            "green": 90,
+            "blue": 48,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "8dbbb2c9-d702-4419-8790-ab933ea9ae86",
+        "name": "Amla",
+        "abbreviation": "A",
+        "color": {
+            "red": 141,
+            "green": 158,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 141,
+            "green": 158,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "9f73e895-4cd7-43ac-8045-db3c45ca51e1",
+        "name": "Apples",
+        "abbreviation": "A",
+        "color": {
+            "red": 136,
+            "green": 23,
+            "blue": 23,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 136,
+            "green": 23,
+            "blue": 23,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "71a8aa2f-1353-4edd-ab6f-743099946c76",
+        "name": "Apricots",
+        "abbreviation": "A",
+        "color": {
+            "red": 188,
+            "green": 56,
+            "blue": 5,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 188,
+            "green": 56,
+            "blue": 5,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "cf1a7f4c-b0c0-4367-ad25-089ecb2865b2",
+        "name": "Apriums",
+        "abbreviation": "A",
+        "color": {
+            "red": 211,
+            "green": 146,
+            "blue": 24,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 211,
+            "green": 146,
+            "blue": 24,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2dbc4d7f-08d6-462b-b391-682ae027290f",
+        "name": "Artichoke Hearts",
+        "abbreviation": "AH",
+        "color": {
+            "red": 135,
+            "green": 118,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 135,
+            "green": 118,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "e3193e94-a26e-4cbf-815b-47c714b9d392",
+        "name": "Artichokes",
+        "abbreviation": "A",
+        "color": {
+            "red": 121,
+            "green": 153,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 121,
+            "green": 153,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "e0444f2b-2d97-4165-8cfb-5d28abc8c27a",
+        "name": "Arugula",
+        "abbreviation": "A",
+        "color": {
+            "red": 86,
+            "green": 125,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 86,
+            "green": 125,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "8cda2c62-1227-4b34-bb67-0927239a39c1",
+        "name": "Asian Pears",
+        "abbreviation": "AP",
+        "color": {
+            "red": 156,
+            "green": 108,
+            "blue": 49,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 156,
+            "green": 108,
+            "blue": 49,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b1a76174-efcc-4ec8-8eea-77b865374e72",
+        "name": "Asparagus",
+        "abbreviation": "A",
+        "color": {
+            "red": 113,
+            "green": 164,
+            "blue": 21,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 113,
+            "green": 164,
+            "blue": 21,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "f364f282-d239-4d1a-b017-83a810d0f71e",
+        "name": "Asparagus Tips",
+        "abbreviation": "AT",
+        "color": {
+            "red": 113,
+            "green": 164,
+            "blue": 21,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 113,
+            "green": 164,
+            "blue": 21,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b8637498-2cdf-4ee2-9824-319d39224f45",
+        "name": "Atemoya",
+        "abbreviation": "A",
+        "color": {
+            "red": 138,
+            "green": 173,
+            "blue": 58,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 138,
+            "green": 173,
+            "blue": 58,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "21ace495-8e7c-48b4-b07e-3ed6a7bf7cdc",
+        "name": "Aubergine",
+        "abbreviation": "A",
+        "color": {
+            "red": 170,
+            "green": 117,
+            "blue": 43,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 170,
+            "green": 117,
+            "blue": 43,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ad2f04b5-ab15-427c-a1ab-1da01976d984",
+        "name": "Aubergine Eggplant",
+        "abbreviation": "AE",
+        "color": {
+            "red": 156,
+            "green": 194,
+            "blue": 67,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 156,
+            "green": 194,
+            "blue": 67,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "51afdd39-14f5-4df2-a9c1-cc4289a633d6",
+        "name": "Avocados",
+        "abbreviation": "A",
+        "color": {
+            "red": 156,
+            "green": 135,
+            "blue": 61,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 156,
+            "green": 135,
+            "blue": 61,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "54377f64-c145-4a35-9ea8-5626ee675efe",
+        "name": "Baby Corn",
+        "abbreviation": "BC",
+        "color": {
+            "red": 192,
+            "green": 142,
+            "blue": 56,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 192,
+            "green": 142,
+            "blue": 56,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "28356472-2f55-4eec-8ecb-c0b988391fb8",
+        "name": "Bamboo Shoots",
+        "abbreviation": "BS",
+        "color": {
+            "red": 201,
+            "green": 149,
+            "blue": 42,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 201,
+            "green": 149,
+            "blue": 42,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c62ac0be-ad69-4418-96e2-78b25068041f",
+        "name": "Bananas",
+        "abbreviation": "B",
+        "color": {
+            "red": 122,
+            "green": 127,
+            "blue": 13,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 122,
+            "green": 127,
+            "blue": 13,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "9002c59d-8e64-4599-9bbe-3b458bb52270",
+        "name": "Basil",
+        "abbreviation": "B",
+        "color": {
+            "red": 36,
+            "green": 116,
+            "blue": 4,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 36,
+            "green": 116,
+            "blue": 4,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "dfa63529-d5e5-4ce3-baea-29a9b569f497",
+        "name": "Bean Sprouts",
+        "abbreviation": "BS",
+        "color": {
+            "red": 152,
+            "green": 141,
+            "blue": 77,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 152,
+            "green": 141,
+            "blue": 77,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "5ac73d25-4fc9-4922-9dda-122595b4ed0a",
+        "name": "Beans",
+        "abbreviation": "B",
+        "color": {
+            "red": 113,
+            "green": 57,
+            "blue": 38,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 113,
+            "green": 57,
+            "blue": 38,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "5d0fc429-1c46-4969-959f-e12361b6e9f5",
+        "name": "Beet Greens",
+        "abbreviation": "BG",
+        "color": {
+            "red": 74,
+            "green": 114,
+            "blue": 36,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 74,
+            "green": 114,
+            "blue": 36,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d28fb449-494e-4540-b8c1-8403b6c32cee",
+        "name": "Beets",
+        "abbreviation": "B",
+        "color": {
+            "red": 164,
+            "green": 27,
+            "blue": 81,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 164,
+            "green": 27,
+            "blue": 81,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ac26d118-f897-4288-af76-39da94b3ecca",
+        "name": "Belgian Endive",
+        "abbreviation": "BE",
+        "color": {
+            "red": 116,
+            "green": 92,
+            "blue": 22,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 116,
+            "green": 92,
+            "blue": 22,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b2a27fad-b68e-4580-beb7-aa357346b744",
+        "name": "Bell Peppers",
+        "abbreviation": "BP",
+        "color": {
+            "red": 232,
+            "green": 200,
+            "blue": 33,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 232,
+            "green": 200,
+            "blue": 33,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "0089ee9a-9c8e-42f7-a588-0c2dc4f06a23",
+        "name": "Bergamot Orange",
+        "abbreviation": "BO",
+        "color": {
+            "red": 121,
+            "green": 167,
+            "blue": 55,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 121,
+            "green": 167,
+            "blue": 55,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "50ef541a-23fe-46c2-8f7e-2afad4a1f7cb",
+        "name": "Bitter Melon",
+        "abbreviation": "BM",
+        "color": {
+            "red": 78,
+            "green": 147,
+            "blue": 27,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 78,
+            "green": 147,
+            "blue": 27,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "3044b977-4079-4e32-8445-72ee0e23f220",
+        "name": "Bitter Orange",
+        "abbreviation": "BO",
+        "color": {
+            "red": 187,
+            "green": 114,
+            "blue": 34,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 187,
+            "green": 114,
+            "blue": 34,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c14a555d-2628-4673-b3bc-20f620f68ccc",
+        "name": "Black Cumin",
+        "abbreviation": "BC",
+        "color": {
+            "red": 132,
+            "green": 92,
+            "blue": 28,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 132,
+            "green": 92,
+            "blue": 28,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "0f44218e-29b9-410f-b5ec-8391edf3c973",
+        "name": "Black Salsify",
+        "abbreviation": "BS",
+        "color": {
+            "red": 78,
+            "green": 114,
+            "blue": 36,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 78,
+            "green": 114,
+            "blue": 36,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d4cc5e45-b025-41d2-9aed-c4ea15def4f9",
+        "name": "Black-eyed Peas",
+        "abbreviation": "BP",
+        "color": {
+            "red": 218,
+            "green": 50,
+            "blue": 93,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 218,
+            "green": 50,
+            "blue": 93,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "0d9aad51-0c6e-4126-9582-afacc4ef8355",
+        "name": "Blackberries",
+        "abbreviation": "B",
+        "color": {
+            "red": 122,
+            "green": 28,
+            "blue": 42,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 122,
+            "green": 28,
+            "blue": 42,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "5f13bec7-98a1-4eba-b466-ad453af693ae",
+        "name": "Blackcurrant",
+        "abbreviation": "B",
+        "color": {
+            "red": 80,
+            "green": 140,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 80,
+            "green": 140,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "6896dd4b-e387-46a9-85d9-c1dbbe229dae",
+        "name": "Blood Oranges",
+        "abbreviation": "BO",
+        "color": {
+            "red": 226,
+            "green": 99,
+            "blue": 41,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 226,
+            "green": 99,
+            "blue": 41,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "e0677d57-c90c-4122-a608-8f51b15c7489",
+        "name": "Blueberries",
+        "abbreviation": "B",
+        "color": {
+            "red": 67,
+            "green": 96,
+            "blue": 134,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 67,
+            "green": 96,
+            "blue": 134,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "76823eae-1375-4314-80df-3c6f2608b8f9",
+        "name": "Bok Choy",
+        "abbreviation": "BC",
+        "color": {
+            "red": 184,
+            "green": 150,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 184,
+            "green": 150,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "8d24e9d2-26b1-4528-9e2d-c60c5bea2936",
+        "name": "Boniato",
+        "abbreviation": "B",
+        "color": {
+            "red": 102,
+            "green": 54,
+            "blue": 45,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 102,
+            "green": 54,
+            "blue": 45,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "fb14fca9-a2ab-4cde-82b2-e20983a53eec",
+        "name": "Boysenberries",
+        "abbreviation": "B",
+        "color": {
+            "red": 181,
+            "green": 45,
+            "blue": 33,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 181,
+            "green": 45,
+            "blue": 33,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "afbea797-7b1b-4352-99f6-b7ac59c84886",
+        "name": "Brazil Nuts",
+        "abbreviation": "BN",
+        "color": {
+            "red": 141,
+            "green": 66,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 141,
+            "green": 66,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "065174f0-40b2-400d-bc6f-225914decd79",
+        "name": "Breadfruit",
+        "abbreviation": "B",
+        "color": {
+            "red": 136,
+            "green": 148,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 136,
+            "green": 148,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "e774f439-7d2e-47b3-9ffd-08a4523b1d76",
+        "name": "Breadroot",
+        "abbreviation": "B",
+        "color": {
+            "red": 87,
+            "green": 113,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 87,
+            "green": 113,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "cdd0a6e5-7339-430c-8845-728556e8aab5",
+        "name": "Broad Beans",
+        "abbreviation": "BB",
+        "color": {
+            "red": 142,
+            "green": 148,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 142,
+            "green": 148,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "3b4b873b-2781-40f6-8981-ab18f1636029",
+        "name": "Broccoflower",
+        "abbreviation": "B",
+        "color": {
+            "red": 145,
+            "green": 159,
+            "blue": 60,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 145,
+            "green": 159,
+            "blue": 60,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "82e10c39-37c4-4e5e-b8a5-4f0803519d08",
+        "name": "Broccoli",
+        "abbreviation": "B",
+        "color": {
+            "red": 120,
+            "green": 151,
+            "blue": 50,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 120,
+            "green": 151,
+            "blue": 50,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "e8b6ec42-c3c1-4405-880e-5fc6ef0b19bc",
+        "name": "Broccoli Rabe",
+        "abbreviation": "BR",
+        "color": {
+            "red": 160,
+            "green": 137,
+            "blue": 53,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 160,
+            "green": 137,
+            "blue": 53,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "021bdfdd-5d46-4d3a-a8b3-82192c3bc4c1",
+        "name": "Broccoli Romanesco",
+        "abbreviation": "BR",
+        "color": {
+            "red": 127,
+            "green": 143,
+            "blue": 54,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 127,
+            "green": 143,
+            "blue": 54,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "3409841b-7ce1-4998-a17b-ed3ce13edbd0",
+        "name": "Brown Rice",
+        "abbreviation": "BR",
+        "color": {
+            "red": 153,
+            "green": 101,
+            "blue": 42,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 153,
+            "green": 101,
+            "blue": 42,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "63ae54f4-9ea0-4130-85d4-ca204f22d26e",
+        "name": "Brussels Sprouts",
+        "abbreviation": "BS",
+        "color": {
+            "red": 143,
+            "green": 110,
+            "blue": 22,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 143,
+            "green": 110,
+            "blue": 22,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "6e11439d-8887-4e61-a262-a689467fe982",
+        "name": "Buddha’s Hand",
+        "abbreviation": "BH",
+        "color": {
+            "red": 135,
+            "green": 72,
+            "blue": 6,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 135,
+            "green": 72,
+            "blue": 6,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "12189e08-14e4-4cff-9580-fb1e606122ab",
+        "name": "Bush Carrot",
+        "abbreviation": "BC",
+        "color": {
+            "red": 47,
+            "green": 157,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 47,
+            "green": 157,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "16779b43-3767-403d-9755-8d60a6c6a7bd",
+        "name": "Butternut Squash",
+        "abbreviation": "BS",
+        "color": {
+            "red": 126,
+            "green": 43,
+            "blue": 17,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 126,
+            "green": 43,
+            "blue": 17,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "a059b5e4-78fc-49cb-8de0-1cef26bc8795",
+        "name": "Cabbage",
+        "abbreviation": "C",
+        "color": {
+            "red": 122,
+            "green": 161,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 122,
+            "green": 161,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "1e16f744-778b-4667-8802-0d0d47178888",
+        "name": "Cacao",
+        "abbreviation": "C",
+        "color": {
+            "red": 198,
+            "green": 133,
+            "blue": 22,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 198,
+            "green": 133,
+            "blue": 22,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b87704dc-119d-4e3d-b9d9-428003825289",
+        "name": "Cactus Pear",
+        "abbreviation": "CP",
+        "color": {
+            "red": 102,
+            "green": 44,
+            "blue": 29,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 102,
+            "green": 44,
+            "blue": 29,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d249c469-a6a0-4fee-89bc-17b79a6540af",
+        "name": "Calamansi",
+        "abbreviation": "C",
+        "color": {
+            "red": 160,
+            "green": 60,
+            "blue": 6,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 160,
+            "green": 60,
+            "blue": 6,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "54445ddb-7399-44a2-9d68-9dcd3da5772c",
+        "name": "Calamondin",
+        "abbreviation": "C",
+        "color": {
+            "red": 196,
+            "green": 154,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 196,
+            "green": 154,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "664da126-524d-449c-a1ea-8ee0b00904c3",
+        "name": "Cantaloupe",
+        "abbreviation": "C",
+        "color": {
+            "red": 115,
+            "green": 106,
+            "blue": 24,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 115,
+            "green": 106,
+            "blue": 24,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "f8268e2c-461f-4581-9cdc-c49d00e3eede",
+        "name": "Cape Gooseberry",
+        "abbreviation": "CG",
+        "color": {
+            "red": 226,
+            "green": 141,
+            "blue": 29,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 226,
+            "green": 141,
+            "blue": 29,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7bd08854-ab96-4fea-b45e-461f576e4a89",
+        "name": "Cara Cara",
+        "abbreviation": "CC",
+        "color": {
+            "red": 213,
+            "green": 110,
+            "blue": 19,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 213,
+            "green": 110,
+            "blue": 19,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "5f27b1fd-3ca8-42ab-b92c-1bf0dafddb22",
+        "name": "Carambola",
+        "abbreviation": "C",
+        "color": {
+            "red": 199,
+            "green": 170,
+            "blue": 19,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 199,
+            "green": 170,
+            "blue": 19,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c5d60f25-d284-4984-a676-7f34806fbbe5",
+        "name": "Carrots",
+        "abbreviation": "C",
+        "color": {
+            "red": 225,
+            "green": 98,
+            "blue": 25,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 225,
+            "green": 98,
+            "blue": 25,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ee3c5e32-8130-478c-936d-2f8fec33d66a",
+        "name": "Casaba Melon",
+        "abbreviation": "CM",
+        "color": {
+            "red": 133,
+            "green": 82,
+            "blue": 4,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 133,
+            "green": 82,
+            "blue": 4,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "5f27c662-09d9-4b03-bb23-816f6ab9ca58",
+        "name": "Cashew",
+        "abbreviation": "C",
+        "color": {
+            "red": 192,
+            "green": 170,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 192,
+            "green": 170,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c8784f31-0519-48ff-8740-7a97f8126521",
+        "name": "Cashew Apple",
+        "abbreviation": "CA",
+        "color": {
+            "red": 192,
+            "green": 170,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 192,
+            "green": 170,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "bcda07c3-8e79-48ed-b733-eb36c0bc0629",
+        "name": "Cassava",
+        "abbreviation": "C",
+        "color": {
+            "red": 133,
+            "green": 80,
+            "blue": 51,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 133,
+            "green": 80,
+            "blue": 51,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "4a5a4bd9-46f5-488c-9572-608edac20c90",
+        "name": "Cauliflower",
+        "abbreviation": "C",
+        "color": {
+            "red": 58,
+            "green": 126,
+            "blue": 22,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 58,
+            "green": 126,
+            "blue": 22,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "300d6ae1-5f44-466e-9bb0-4e53bae04fdb",
+        "name": "Cayenne Pepper",
+        "abbreviation": "CP",
+        "color": {
+            "red": 118,
+            "green": 113,
+            "blue": 56,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 118,
+            "green": 113,
+            "blue": 56,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "3bf8ca03-25f5-41c1-ab07-920b6ec6bc49",
+        "name": "Cedar Nuts",
+        "abbreviation": "CN",
+        "color": {
+            "red": 170,
+            "green": 124,
+            "blue": 48,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 170,
+            "green": 124,
+            "blue": 48,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "bdbb7c03-589c-4208-9ae6-5ca71d2b860f",
+        "name": "Celeriac",
+        "abbreviation": "C",
+        "color": {
+            "red": 118,
+            "green": 150,
+            "blue": 29,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 118,
+            "green": 150,
+            "blue": 29,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "3d77820b-54d4-46fe-8fb3-95773b098d4b",
+        "name": "Celery",
+        "abbreviation": "C",
+        "color": {
+            "red": 132,
+            "green": 168,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 132,
+            "green": 168,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "9aa0631d-b8fa-4b90-b191-16e5a1a372f7",
+        "name": "Celery Hearts",
+        "abbreviation": "CH",
+        "color": {
+            "red": 129,
+            "green": 148,
+            "blue": 24,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 129,
+            "green": 148,
+            "blue": 24,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7fbda55a-8ffd-41d9-90ea-a5816b1275ac",
+        "name": "Chard",
+        "abbreviation": "C",
+        "color": {
+            "red": 190,
+            "green": 86,
+            "blue": 61,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 190,
+            "green": 86,
+            "blue": 61,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c8173dbd-5b5b-4bd0-9554-46b598de030e",
+        "name": "Chayote",
+        "abbreviation": "C",
+        "color": {
+            "red": 143,
+            "green": 136,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 143,
+            "green": 136,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7b9aa517-3a89-4dee-96e1-37008846b74b",
+        "name": "Chayote Squash",
+        "abbreviation": "CS",
+        "color": {
+            "red": 144,
+            "green": 136,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 144,
+            "green": 136,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "40d4051c-4ced-4250-8b08-d3521a1fb562",
+        "name": "Cherimoyas",
+        "abbreviation": "C",
+        "color": {
+            "red": 213,
+            "green": 208,
+            "blue": 185,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 213,
+            "green": 208,
+            "blue": 185,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "685d2799-bd4d-4fbe-83f1-1af57edc1da0",
+        "name": "Cherries",
+        "abbreviation": "C",
+        "color": {
+            "red": 170,
+            "green": 18,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 170,
+            "green": 18,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "0817e049-b473-407a-9286-29d000409a77",
+        "name": "Chervil",
+        "abbreviation": "C",
+        "color": {
+            "red": 105,
+            "green": 155,
+            "blue": 45,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 105,
+            "green": 155,
+            "blue": 45,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "6c8a8974-c415-484b-ad75-61c70be97bad",
+        "name": "Chestnuts",
+        "abbreviation": "C",
+        "color": {
+            "red": 186,
+            "green": 108,
+            "blue": 27,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 186,
+            "green": 108,
+            "blue": 27,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "99c932f2-3826-4dc5-b621-f2ce11fa9bb7",
+        "name": "Chickpeas",
+        "abbreviation": "C",
+        "color": {
+            "red": 189,
+            "green": 121,
+            "blue": 40,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 189,
+            "green": 121,
+            "blue": 40,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c5de8b5a-f9f3-4d35-a6ec-a1831be0c949",
+        "name": "Chico",
+        "abbreviation": "C",
+        "color": {
+            "red": 30,
+            "green": 35,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 30,
+            "green": 35,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b1a2c33d-6dac-4279-b51b-7ab2f590a5f7",
+        "name": "Chicory",
+        "abbreviation": "C",
+        "color": {
+            "red": 125,
+            "green": 133,
+            "blue": 40,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 125,
+            "green": 133,
+            "blue": 40,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "604e477e-606d-44fd-bfca-8bb0ef2b7789",
+        "name": "Chicory Greens",
+        "abbreviation": "CG",
+        "color": {
+            "red": 78,
+            "green": 126,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 78,
+            "green": 126,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b4d2e9e7-4073-4694-a7da-78e5bb6b88bd",
+        "name": "Chili Pepper",
+        "abbreviation": "CP",
+        "color": {
+            "red": 89,
+            "green": 140,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 89,
+            "green": 140,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "32ac5c3c-5c8b-4cc8-b0a4-31dcfaa962ba",
+        "name": "Chinese Artichokes",
+        "abbreviation": "CA",
+        "color": {
+            "red": 110,
+            "green": 69,
+            "blue": 41,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 110,
+            "green": 69,
+            "blue": 41,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d9175c0c-ba58-4000-b1e4-ca7f20adfcbd",
+        "name": "Chinese Broccoli",
+        "abbreviation": "CB",
+        "color": {
+            "red": 171,
+            "green": 114,
+            "blue": 38,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 171,
+            "green": 114,
+            "blue": 38,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "8f3021aa-bbde-4655-9b33-938fd387633e",
+        "name": "Chinese Cabbage",
+        "abbreviation": "CC",
+        "color": {
+            "red": 113,
+            "green": 131,
+            "blue": 34,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 113,
+            "green": 131,
+            "blue": 34,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b95a69e8-6c13-4c79-a894-1e8106d8201a",
+        "name": "Chinese Spinach",
+        "abbreviation": "CS",
+        "color": {
+            "red": 165,
+            "green": 132,
+            "blue": 85,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 165,
+            "green": 132,
+            "blue": 85,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "6790fb81-1a9c-4cbf-8709-5846fcaf476d",
+        "name": "Chinese Water Chestnut",
+        "abbreviation": "CW",
+        "color": {
+            "red": 95,
+            "green": 114,
+            "blue": 56,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 95,
+            "green": 114,
+            "blue": 56,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "749dac31-2e04-4e6b-b21e-6fbb24bb65b0",
+        "name": "Chinese Yam",
+        "abbreviation": "CY",
+        "color": {
+            "red": 124,
+            "green": 75,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 124,
+            "green": 75,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7a504a0d-4f6c-4d36-aeb4-e23bce5d09a4",
+        "name": "Chinotto",
+        "abbreviation": "C",
+        "color": {
+            "red": 141,
+            "green": 59,
+            "blue": 13,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 141,
+            "green": 59,
+            "blue": 13,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ac05c43f-cb16-42b3-8ba2-fd1a59284a37",
+        "name": "Cilantro",
+        "abbreviation": "C",
+        "color": {
+            "red": 120,
+            "green": 150,
+            "blue": 25,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 120,
+            "green": 150,
+            "blue": 25,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "5124ce90-bcd5-4224-ab25-b50e22be8682",
+        "name": "Citron",
+        "abbreviation": "C",
+        "color": {
+            "red": 193,
+            "green": 142,
+            "blue": 21,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 193,
+            "green": 142,
+            "blue": 21,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "4f0fba33-f914-472b-bb9d-7f1dddb7b0e3",
+        "name": "Clementine",
+        "abbreviation": "C",
+        "color": {
+            "red": 189,
+            "green": 118,
+            "blue": 25,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 189,
+            "green": 118,
+            "blue": 25,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ebc7bc1a-48f4-4e52-8435-def3f69d6d74",
+        "name": "Clove",
+        "abbreviation": "C",
+        "color": {
+            "red": 217,
+            "green": 210,
+            "blue": 210,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 217,
+            "green": 210,
+            "blue": 210,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "812659b2-ded2-4509-8665-7ecfe5b2479a",
+        "name": "Coconut Meat",
+        "abbreviation": "CM",
+        "color": {
+            "red": 118,
+            "green": 86,
+            "blue": 55,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 118,
+            "green": 86,
+            "blue": 55,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "8cbc90bf-78e3-4676-b6c8-c3f60bc8974f",
+        "name": "Coconuts",
+        "abbreviation": "C",
+        "color": {
+            "red": 140,
+            "green": 90,
+            "blue": 65,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 140,
+            "green": 90,
+            "blue": 65,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "518733e6-8a3a-4a45-8a1b-0d65782daf81",
+        "name": "Coffee",
+        "abbreviation": "C",
+        "color": {
+            "red": 35,
+            "green": 41,
+            "blue": 47,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 35,
+            "green": 41,
+            "blue": 47,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "9f0ef037-bb4b-45b7-99e0-5933e5bdc83e",
+        "name": "Collard Greens",
+        "abbreviation": "CG",
+        "color": {
+            "red": 217,
+            "green": 95,
+            "blue": 29,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 217,
+            "green": 95,
+            "blue": 29,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "565f633a-3dbe-4074-bee0-f1f2a99e8665",
+        "name": "Collards",
+        "abbreviation": "C",
+        "color": {
+            "red": 75,
+            "green": 111,
+            "blue": 36,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 75,
+            "green": 111,
+            "blue": 36,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "851f81c1-7682-4912-b17c-ee7f7fb68361",
+        "name": "Corn",
+        "abbreviation": "C",
+        "color": {
+            "red": 213,
+            "green": 194,
+            "blue": 118,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 213,
+            "green": 194,
+            "blue": 118,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "1a0f6b38-c152-476b-b1d5-86417150a0ef",
+        "name": "Corsican Citron",
+        "abbreviation": "CC",
+        "color": {
+            "red": 114,
+            "green": 138,
+            "blue": 31,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 114,
+            "green": 138,
+            "blue": 31,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ee771817-1eeb-4e8e-bbf8-39a6615ee71e",
+        "name": "Courgette",
+        "abbreviation": "C",
+        "color": {
+            "red": 86,
+            "green": 103,
+            "blue": 69,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 86,
+            "green": 103,
+            "blue": 69,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "4fb4106f-a475-49b4-bb82-7f37771d45bf",
+        "name": "Cranberries",
+        "abbreviation": "C",
+        "color": {
+            "red": 163,
+            "green": 24,
+            "blue": 37,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 163,
+            "green": 24,
+            "blue": 37,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "4786a559-c347-48d2-9bde-e25941a4c340",
+        "name": "Crookneck Squash",
+        "abbreviation": "CS",
+        "color": {
+            "red": 204,
+            "green": 174,
+            "blue": 42,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 204,
+            "green": 174,
+            "blue": 42,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "cf48e685-1b36-41a4-a4a8-f3564868bdd4",
+        "name": "Cucumber",
+        "abbreviation": "C",
+        "color": {
+            "red": 111,
+            "green": 160,
+            "blue": 29,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 111,
+            "green": 160,
+            "blue": 29,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c8eb4ffe-985a-4efe-a4af-328f53e5b925",
+        "name": "Cushaw Squash",
+        "abbreviation": "CS",
+        "color": {
+            "red": 185,
+            "green": 178,
+            "blue": 167,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 185,
+            "green": 178,
+            "blue": 167,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "22729f69-235d-4a7b-96b7-c872733f56f2",
+        "name": "Custard Apple",
+        "abbreviation": "CA",
+        "color": {
+            "red": 111,
+            "green": 114,
+            "blue": 68,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 111,
+            "green": 114,
+            "blue": 68,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "4ab23ced-1f07-4fa7-9a96-184774a20cd2",
+        "name": "Custard-Apple",
+        "abbreviation": "C",
+        "color": {
+            "red": 111,
+            "green": 114,
+            "blue": 68,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 111,
+            "green": 114,
+            "blue": 68,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "f9026cc9-a04b-49fd-923a-8e6c34e0fa11",
+        "name": "Daikon",
+        "abbreviation": "D",
+        "color": {
+            "red": 123,
+            "green": 112,
+            "blue": 100,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 123,
+            "green": 112,
+            "blue": 100,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "fe676d11-c142-4166-9e2d-9abfbe87bc70",
+        "name": "Date Fruit",
+        "abbreviation": "DF",
+        "color": {
+            "red": 184,
+            "green": 71,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 184,
+            "green": 71,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "65fa3b2f-1e5d-4bea-bb0a-312ed54b955a",
+        "name": "Date Palm",
+        "abbreviation": "DP",
+        "color": {
+            "red": 40,
+            "green": 89,
+            "blue": 169,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 40,
+            "green": 89,
+            "blue": 169,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "aee3101c-f6c5-446f-8039-49ae9e0edf63",
+        "name": "Dates",
+        "abbreviation": "D",
+        "color": {
+            "red": 140,
+            "green": 48,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 140,
+            "green": 48,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "66368e0f-98f1-402d-a6af-662ea9cf4eb9",
+        "name": "Desert Lime",
+        "abbreviation": "DL",
+        "color": {
+            "red": 145,
+            "green": 156,
+            "blue": 43,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 145,
+            "green": 156,
+            "blue": 43,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "235ef843-575f-4e45-acce-0c69d61bbce5",
+        "name": "Dill",
+        "abbreviation": "D",
+        "color": {
+            "red": 86,
+            "green": 124,
+            "blue": 43,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 86,
+            "green": 124,
+            "blue": 43,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "43ab709d-32fd-4264-9fb7-084e05901d69",
+        "name": "Dragon Fruit",
+        "abbreviation": "DF",
+        "color": {
+            "red": 202,
+            "green": 35,
+            "blue": 89,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 202,
+            "green": 35,
+            "blue": 89,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2c55838c-422f-4349-8cb2-faa8caaceacd",
+        "name": "Dried Plums",
+        "abbreviation": "DP",
+        "color": {
+            "red": 52,
+            "green": 42,
+            "blue": 40,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 52,
+            "green": 42,
+            "blue": 40,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "307c9362-7167-4bef-af16-21b8bf925c70",
+        "name": "Durian",
+        "abbreviation": "D",
+        "color": {
+            "red": 205,
+            "green": 177,
+            "blue": 23,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 205,
+            "green": 177,
+            "blue": 23,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "720541c2-8431-4fe5-b70b-a948475060b3",
+        "name": "Earthnut Pea",
+        "abbreviation": "EP",
+        "color": {
+            "red": 219,
+            "green": 48,
+            "blue": 157,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 219,
+            "green": 48,
+            "blue": 157,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "46ece094-efac-413d-b9ab-200c4ac9766a",
+        "name": "Edamame",
+        "abbreviation": "E",
+        "color": {
+            "red": 102,
+            "green": 144,
+            "blue": 36,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 102,
+            "green": 144,
+            "blue": 36,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "463837f5-c148-46c7-9f90-569d0991d600",
+        "name": "Eggplant",
+        "abbreviation": "E",
+        "color": {
+            "red": 153,
+            "green": 140,
+            "blue": 66,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 153,
+            "green": 140,
+            "blue": 66,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "8abc6ef2-e3fc-4a4d-947b-71cd50b142d5",
+        "name": "Elderberries",
+        "abbreviation": "E",
+        "color": {
+            "red": 137,
+            "green": 35,
+            "blue": 58,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 137,
+            "green": 35,
+            "blue": 58,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d1e0ec47-11be-4920-8501-065be5aeec4a",
+        "name": "Endive",
+        "abbreviation": "E",
+        "color": {
+            "red": 113,
+            "green": 134,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 113,
+            "green": 134,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ea822a6a-b68a-4e46-bfef-8a1e45d23cdf",
+        "name": "Endive Greens",
+        "abbreviation": "EG",
+        "color": {
+            "red": 184,
+            "green": 175,
+            "blue": 83,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 184,
+            "green": 175,
+            "blue": 83,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c0fb3565-c25c-4d53-804a-6e21dfd206d9",
+        "name": "Escarole",
+        "abbreviation": "E",
+        "color": {
+            "red": 148,
+            "green": 177,
+            "blue": 41,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 148,
+            "green": 177,
+            "blue": 41,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "5d6bfc7c-3204-4741-8ed1-a9309d5b4db8",
+        "name": "Escarole Greens",
+        "abbreviation": "EG",
+        "color": {
+            "red": 148,
+            "green": 177,
+            "blue": 41,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 148,
+            "green": 177,
+            "blue": 41,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "261110be-6f23-4d66-a51a-31dd872ba600",
+        "name": "Etrog",
+        "abbreviation": "E",
+        "color": {
+            "red": 101,
+            "green": 112,
+            "blue": 40,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 101,
+            "green": 112,
+            "blue": 40,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "27d6e30e-c251-42ba-8d86-74a315b01e82",
+        "name": "Eureka Lemon",
+        "abbreviation": "EL",
+        "color": {
+            "red": 187,
+            "green": 158,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 187,
+            "green": 158,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "30233887-e206-44f0-a981-4220923a03ec",
+        "name": "Fava Beans",
+        "abbreviation": "FB",
+        "color": {
+            "red": 142,
+            "green": 148,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 142,
+            "green": 148,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "089e3948-a600-4eea-b20a-365c1b405f71",
+        "name": "Feijoa",
+        "abbreviation": "F",
+        "color": {
+            "red": 172,
+            "green": 167,
+            "blue": 145,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 172,
+            "green": 167,
+            "blue": 145,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "0f280896-4c05-4cc9-8bc5-1f7188eff7fa",
+        "name": "Fennel",
+        "abbreviation": "F",
+        "color": {
+            "red": 115,
+            "green": 143,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 115,
+            "green": 143,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "61a96e33-5a05-458c-a857-571b843dc113",
+        "name": "Fiddleheads",
+        "abbreviation": "F",
+        "color": {
+            "red": 127,
+            "green": 143,
+            "blue": 41,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 127,
+            "green": 143,
+            "blue": 41,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "5fe33b32-045b-4838-b9d5-cfc7e914016b",
+        "name": "Figs",
+        "abbreviation": "F",
+        "color": {
+            "red": 186,
+            "green": 46,
+            "blue": 40,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 186,
+            "green": 46,
+            "blue": 40,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "5319ece7-7b68-41d2-a806-e23c9dda5704",
+        "name": "Finger Lime",
+        "abbreviation": "FL",
+        "color": {
+            "red": 87,
+            "green": 100,
+            "blue": 49,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 87,
+            "green": 100,
+            "blue": 49,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ed786057-ed1e-48b4-a16a-40e066d6f4aa",
+        "name": "First Lady",
+        "abbreviation": "FL",
+        "color": {
+            "red": 135,
+            "green": 61,
+            "blue": 57,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 135,
+            "green": 61,
+            "blue": 57,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "10ed780b-f2f2-42b9-8125-9398b6be0f50",
+        "name": "Flaxseeds",
+        "abbreviation": "F",
+        "color": {
+            "red": 158,
+            "green": 73,
+            "blue": 42,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 158,
+            "green": 73,
+            "blue": 42,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "abb85fdf-de31-43d8-92b7-5f35ef9c7c60",
+        "name": "Florentine Citron",
+        "abbreviation": "FC",
+        "color": {
+            "red": 109,
+            "green": 56,
+            "blue": 44,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 109,
+            "green": 56,
+            "blue": 44,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "8cbf896f-36c1-431c-a955-787659112001",
+        "name": "Fried Plantains",
+        "abbreviation": "FP",
+        "color": {
+            "red": 203,
+            "green": 133,
+            "blue": 42,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 203,
+            "green": 133,
+            "blue": 42,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "e8fd8dc7-6798-4ed4-9086-319d70d11659",
+        "name": "Garbanzo Beans",
+        "abbreviation": "GB",
+        "color": {
+            "red": 191,
+            "green": 122,
+            "blue": 40,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 191,
+            "green": 122,
+            "blue": 40,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "fb04dccf-bfe8-48d8-8bf5-7a634f20f1a2",
+        "name": "Garden Cress",
+        "abbreviation": "GC",
+        "color": {
+            "red": 101,
+            "green": 129,
+            "blue": 21,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 101,
+            "green": 129,
+            "blue": 21,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ca2af6ca-6578-46d1-8328-a50657324e7b",
+        "name": "Garden Huckleberry",
+        "abbreviation": "GH",
+        "color": {
+            "red": 14,
+            "green": 128,
+            "blue": 86,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 14,
+            "green": 128,
+            "blue": 86,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ee379970-b72f-4155-9478-f5eab315af7a",
+        "name": "Garden Peas",
+        "abbreviation": "GP",
+        "color": {
+            "red": 115,
+            "green": 154,
+            "blue": 31,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 115,
+            "green": 154,
+            "blue": 31,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "3d798902-35ec-485d-9c20-5284f8622a97",
+        "name": "Garlic",
+        "abbreviation": "G",
+        "color": {
+            "red": 172,
+            "green": 101,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 172,
+            "green": 101,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c78858c2-9148-443e-9c6f-1beacdc0ef4e",
+        "name": "Ginger",
+        "abbreviation": "G",
+        "color": {
+            "red": 157,
+            "green": 105,
+            "blue": 46,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 157,
+            "green": 105,
+            "blue": 46,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "46e30f04-b034-4de1-9c6f-059b8161f04d",
+        "name": "Ginkgo nuts",
+        "abbreviation": "GN",
+        "color": {
+            "red": 186,
+            "green": 83,
+            "blue": 20,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 186,
+            "green": 83,
+            "blue": 20,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "be2a6033-4711-4b28-9a4c-a7e00f46f177",
+        "name": "Goji Berry",
+        "abbreviation": "GB",
+        "color": {
+            "red": 177,
+            "green": 74,
+            "blue": 53,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 177,
+            "green": 74,
+            "blue": 53,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "63d94fd7-4d14-4482-86f3-0d9fe1519a39",
+        "name": "Gooseberries",
+        "abbreviation": "G",
+        "color": {
+            "red": 108,
+            "green": 135,
+            "blue": 40,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 108,
+            "green": 135,
+            "blue": 40,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7efc6d6d-761f-4c1a-b526-bc2ce8e48dcd",
+        "name": "Grapefruits",
+        "abbreviation": "G",
+        "color": {
+            "red": 187,
+            "green": 71,
+            "blue": 32,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 187,
+            "green": 71,
+            "blue": 32,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "90978f26-3f7e-440c-bfc6-033684a7fb67",
+        "name": "Grapes",
+        "abbreviation": "G",
+        "color": {
+            "red": 135,
+            "green": 104,
+            "blue": 46,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 135,
+            "green": 104,
+            "blue": 46,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c2b3f813-b83a-4807-96b7-b51c2ff3c3ac",
+        "name": "Greek Citron",
+        "abbreviation": "GC",
+        "color": {
+            "red": 186,
+            "green": 210,
+            "blue": 130,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 186,
+            "green": 210,
+            "blue": 130,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "887e7081-336a-4aca-8c63-b11d03f830bb",
+        "name": "Green Almonds",
+        "abbreviation": "GA",
+        "color": {
+            "red": 127,
+            "green": 162,
+            "blue": 32,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 127,
+            "green": 162,
+            "blue": 32,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "e61695ab-e925-498f-98ee-ffd178f7b47f",
+        "name": "Green Beans",
+        "abbreviation": "GB",
+        "color": {
+            "red": 156,
+            "green": 91,
+            "blue": 50,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 156,
+            "green": 91,
+            "blue": 50,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "3ba9fbba-7e09-46fc-b8b5-66c2790b8eed",
+        "name": "Green Bell Peppers",
+        "abbreviation": "GB",
+        "color": {
+            "red": 76,
+            "green": 137,
+            "blue": 37,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 76,
+            "green": 137,
+            "blue": 37,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "54544fd7-8ec2-4990-b6e9-60cb47351cad",
+        "name": "Green Cabbage",
+        "abbreviation": "GC",
+        "color": {
+            "red": 122,
+            "green": 161,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 122,
+            "green": 161,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b22b99d4-66ec-4670-a6a5-b0d5b8711b12",
+        "name": "Green Onions",
+        "abbreviation": "GO",
+        "color": {
+            "red": 37,
+            "green": 139,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 37,
+            "green": 139,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "16db0392-cd19-44d0-97e8-e78a5abc99ab",
+        "name": "Green Peas",
+        "abbreviation": "GP",
+        "color": {
+            "red": 81,
+            "green": 151,
+            "blue": 32,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 81,
+            "green": 151,
+            "blue": 32,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d99d03ad-4d95-48f3-9300-739b29f30c2a",
+        "name": "Greens",
+        "abbreviation": "G",
+        "color": {
+            "red": 166,
+            "green": 85,
+            "blue": 68,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 166,
+            "green": 85,
+            "blue": 68,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2e285ea5-cfd8-497a-8c17-1411c8aa31a0",
+        "name": "Guava",
+        "abbreviation": "G",
+        "color": {
+            "red": 135,
+            "green": 135,
+            "blue": 27,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 135,
+            "green": 135,
+            "blue": 27,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d8c3aaa4-feba-4296-93da-d7b64f11a909",
+        "name": "Hazelnuts",
+        "abbreviation": "H",
+        "color": {
+            "red": 134,
+            "green": 165,
+            "blue": 12,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 134,
+            "green": 165,
+            "blue": 12,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7ba80e55-5fc8-460f-95b5-3421a5830f29",
+        "name": "Hearts of Palm",
+        "abbreviation": "HO",
+        "color": {
+            "red": 218,
+            "green": 131,
+            "blue": 65,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 218,
+            "green": 131,
+            "blue": 65,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "03acc506-3d1a-4c83-af09-e3010ede108f",
+        "name": "Hog Potatoes",
+        "abbreviation": "HP",
+        "color": {
+            "red": 146,
+            "green": 62,
+            "blue": 12,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 146,
+            "green": 62,
+            "blue": 12,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "26c054ec-d054-48f3-9565-5d888a3ac4e1",
+        "name": "Hominy",
+        "abbreviation": "H",
+        "color": {
+            "red": 163,
+            "green": 107,
+            "blue": 41,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 163,
+            "green": 107,
+            "blue": 41,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "0f3ce037-e0c8-4f95-a6d3-36a1a8e83a7f",
+        "name": "Honeydew Melon",
+        "abbreviation": "HM",
+        "color": {
+            "red": 216,
+            "green": 164,
+            "blue": 41,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 216,
+            "green": 164,
+            "blue": 41,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "cac17a28-855b-418a-88a9-48fa55f203e0",
+        "name": "Horned Melon",
+        "abbreviation": "HM",
+        "color": {
+            "red": 199,
+            "green": 135,
+            "blue": 32,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 199,
+            "green": 135,
+            "blue": 32,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "95bdf50a-5ddb-4fe1-86b0-22b101633257",
+        "name": "Horseradish",
+        "abbreviation": "H",
+        "color": {
+            "red": 141,
+            "green": 103,
+            "blue": 49,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 141,
+            "green": 103,
+            "blue": 49,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "f9404360-8065-446a-80fa-148b55f87873",
+        "name": "Hubbard Squash",
+        "abbreviation": "HS",
+        "color": {
+            "red": 130,
+            "green": 122,
+            "blue": 107,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 130,
+            "green": 122,
+            "blue": 107,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "13c045c3-17f1-4232-83bb-8fe23c3d0bc8",
+        "name": "Hyuganatsu",
+        "abbreviation": "H",
+        "color": {
+            "red": 224,
+            "green": 177,
+            "blue": 15,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 224,
+            "green": 177,
+            "blue": 15,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "de159547-c45b-4689-9299-e9bec2fb469a",
+        "name": "Iceberg Lettuce",
+        "abbreviation": "IL",
+        "color": {
+            "red": 107,
+            "green": 149,
+            "blue": 16,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 107,
+            "green": 149,
+            "blue": 16,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "45c4bb34-a751-4498-9cf9-7ad95d09afe5",
+        "name": "Indian Gooseberry",
+        "abbreviation": "IG",
+        "color": {
+            "red": 154,
+            "green": 154,
+            "blue": 40,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 154,
+            "green": 154,
+            "blue": 40,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "6f09b760-ca32-4208-bb1c-d9b6e2868f89",
+        "name": "Israel Citron",
+        "abbreviation": "IC",
+        "color": {
+            "red": 154,
+            "green": 163,
+            "blue": 21,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 154,
+            "green": 163,
+            "blue": 21,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "e66752ab-986f-4e61-8644-4fcfd5bffa22",
+        "name": "Jaboticaba",
+        "abbreviation": "J",
+        "color": {
+            "red": 103,
+            "green": 127,
+            "blue": 51,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 103,
+            "green": 127,
+            "blue": 51,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "1a626c1f-6d88-45cb-8604-2313de26c76c",
+        "name": "Jackfruit",
+        "abbreviation": "J",
+        "color": {
+            "red": 196,
+            "green": 148,
+            "blue": 40,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 196,
+            "green": 148,
+            "blue": 40,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "559f4fde-6c36-478c-ba26-94c3d4825387",
+        "name": "Jalapeno Peppers",
+        "abbreviation": "JP",
+        "color": {
+            "red": 55,
+            "green": 146,
+            "blue": 12,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 55,
+            "green": 146,
+            "blue": 12,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "647fb4cb-ef98-4e16-a35d-0ba0a5053e2b",
+        "name": "Jalapenos",
+        "abbreviation": "J",
+        "color": {
+            "red": 114,
+            "green": 104,
+            "blue": 33,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 114,
+            "green": 104,
+            "blue": 33,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2b27f348-4a55-4501-9047-07835557a5ac",
+        "name": "Jamun",
+        "abbreviation": "J",
+        "color": {
+            "red": 132,
+            "green": 51,
+            "blue": 84,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 132,
+            "green": 51,
+            "blue": 84,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "e8e44066-9326-4058-8e46-10f011add9ca",
+        "name": "Japanese Apricots",
+        "abbreviation": "JA",
+        "color": {
+            "red": 226,
+            "green": 150,
+            "blue": 52,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 226,
+            "green": 150,
+            "blue": 52,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "adcdf339-4c55-4f7e-893d-6045e691158f",
+        "name": "Japanese Potatoes",
+        "abbreviation": "JP",
+        "color": {
+            "red": 205,
+            "green": 151,
+            "blue": 25,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 205,
+            "green": 151,
+            "blue": 25,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ac019a84-0d4a-4ffa-a922-865bb919ee07",
+        "name": "Java-Plum",
+        "abbreviation": "J",
+        "color": {
+            "red": 158,
+            "green": 109,
+            "blue": 53,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 158,
+            "green": 109,
+            "blue": 53,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ddadfcb3-6b39-49ad-a1bd-32ecf84d05f9",
+        "name": "Jerusalem Artichokes",
+        "abbreviation": "JA",
+        "color": {
+            "red": 185,
+            "green": 128,
+            "blue": 44,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 185,
+            "green": 128,
+            "blue": 44,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "15263e39-c247-45a6-9806-4281c265b3b7",
+        "name": "Jicama",
+        "abbreviation": "J",
+        "color": {
+            "red": 195,
+            "green": 192,
+            "blue": 186,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 195,
+            "green": 192,
+            "blue": 186,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "3fbe6fd5-a24d-4f03-9067-ac74e2abc404",
+        "name": "Jujube Fruit",
+        "abbreviation": "JF",
+        "color": {
+            "red": 158,
+            "green": 31,
+            "blue": 25,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 158,
+            "green": 31,
+            "blue": 25,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ee6e00a7-3851-4b07-87dd-8c8338a7889e",
+        "name": "Juniper",
+        "abbreviation": "J",
+        "color": {
+            "red": 40,
+            "green": 152,
+            "blue": 89,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 40,
+            "green": 152,
+            "blue": 89,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "9728370a-e0eb-4032-bc6b-834cc86bf2f3",
+        "name": "Kabosu",
+        "abbreviation": "K",
+        "color": {
+            "red": 174,
+            "green": 125,
+            "blue": 53,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 174,
+            "green": 125,
+            "blue": 53,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d41704e0-fb1b-4f2d-b898-1a03a6148aca",
+        "name": "Kaffir Lime",
+        "abbreviation": "KL",
+        "color": {
+            "red": 86,
+            "green": 113,
+            "blue": 37,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 86,
+            "green": 113,
+            "blue": 37,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2bd95e5b-6ff3-4f13-a912-4e1e3dfdc54b",
+        "name": "Kale",
+        "abbreviation": "K",
+        "color": {
+            "red": 70,
+            "green": 115,
+            "blue": 26,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 70,
+            "green": 115,
+            "blue": 26,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "036f257c-9ac4-42aa-b2e5-2b7e35dd3b76",
+        "name": "Karuka",
+        "abbreviation": "K",
+        "color": {
+            "red": 123,
+            "green": 97,
+            "blue": 49,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 123,
+            "green": 97,
+            "blue": 49,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "dfd2dd63-0098-4b06-8bcb-07bb0d45814f",
+        "name": "Key Lime",
+        "abbreviation": "KL",
+        "color": {
+            "red": 115,
+            "green": 165,
+            "blue": 26,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 115,
+            "green": 165,
+            "blue": 26,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "4932f664-d38f-41ae-8cdd-56a40f905b84",
+        "name": "Kinnow",
+        "abbreviation": "K",
+        "color": {
+            "red": 199,
+            "green": 110,
+            "blue": 24,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 199,
+            "green": 110,
+            "blue": 24,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "60ce7003-f0cb-4cef-84cd-98d646e97136",
+        "name": "Kiwi",
+        "abbreviation": "K",
+        "color": {
+            "red": 143,
+            "green": 145,
+            "blue": 48,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 143,
+            "green": 145,
+            "blue": 48,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7134e3f4-89a2-42cc-a978-fbed3d0bbd32",
+        "name": "Kiwifruit",
+        "abbreviation": "K",
+        "color": {
+            "red": 139,
+            "green": 163,
+            "blue": 58,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 139,
+            "green": 163,
+            "blue": 58,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d8c12734-a443-4075-9653-481bbea07e8f",
+        "name": "Kiyomi",
+        "abbreviation": "K",
+        "color": {
+            "red": 177,
+            "green": 127,
+            "blue": 114,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 177,
+            "green": 127,
+            "blue": 114,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "0d948c43-cdc1-4e74-bc00-7a2192de5bb7",
+        "name": "Kohlrabi",
+        "abbreviation": "K",
+        "color": {
+            "red": 133,
+            "green": 145,
+            "blue": 32,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 133,
+            "green": 145,
+            "blue": 32,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "de0c4e4b-f162-4d4a-84c2-1440d5433ccd",
+        "name": "Kola Nuts",
+        "abbreviation": "KN",
+        "color": {
+            "red": 109,
+            "green": 62,
+            "blue": 69,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 109,
+            "green": 62,
+            "blue": 69,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "f5f5f336-b89c-413b-bf32-a33c78b2f28d",
+        "name": "Komatsuna",
+        "abbreviation": "K",
+        "color": {
+            "red": 106,
+            "green": 120,
+            "blue": 64,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 106,
+            "green": 120,
+            "blue": 64,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "6d16ca92-3838-457f-a333-09ca09ba8f61",
+        "name": "Konjac",
+        "abbreviation": "K",
+        "color": {
+            "red": 120,
+            "green": 86,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 120,
+            "green": 86,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "0bd70fd1-c904-4dba-9cab-22fab8bc1fb2",
+        "name": "Kumquats",
+        "abbreviation": "K",
+        "color": {
+            "red": 184,
+            "green": 90,
+            "blue": 42,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 184,
+            "green": 90,
+            "blue": 42,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2898f1ba-a642-4ae1-9db4-8e933449d9c4",
+        "name": "Land Cress",
+        "abbreviation": "LC",
+        "color": {
+            "red": 63,
+            "green": 119,
+            "blue": 49,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 63,
+            "green": 119,
+            "blue": 49,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2fe81ba5-c91a-4dec-92f0-cbaaacfbd523",
+        "name": "Leeks",
+        "abbreviation": "L",
+        "color": {
+            "red": 104,
+            "green": 135,
+            "blue": 33,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 104,
+            "green": 135,
+            "blue": 33,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "925277e8-b4f6-4416-bd48-a4d8a48e3413",
+        "name": "Lemongrass",
+        "abbreviation": "L",
+        "color": {
+            "red": 156,
+            "green": 184,
+            "blue": 60,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 156,
+            "green": 184,
+            "blue": 60,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "95210c05-7562-4c7d-a509-0ea4e274a344",
+        "name": "Lemons",
+        "abbreviation": "L",
+        "color": {
+            "red": 222,
+            "green": 182,
+            "blue": 44,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 222,
+            "green": 182,
+            "blue": 44,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b017c763-56d4-43ea-b4b9-f99751221381",
+        "name": "Lettuce",
+        "abbreviation": "L",
+        "color": {
+            "red": 86,
+            "green": 163,
+            "blue": 21,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 86,
+            "green": 163,
+            "blue": 21,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "6dfbffb9-8d2f-423e-b591-96b06065697d",
+        "name": "Lima Beans",
+        "abbreviation": "LB",
+        "color": {
+            "red": 167,
+            "green": 153,
+            "blue": 26,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 167,
+            "green": 153,
+            "blue": 26,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "20b2cc19-d753-4411-af0e-9c5dadb00632",
+        "name": "Limes",
+        "abbreviation": "L",
+        "color": {
+            "red": 82,
+            "green": 102,
+            "blue": 40,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 82,
+            "green": 102,
+            "blue": 40,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "302f76e0-3d49-4ca6-8979-987e333fa2eb",
+        "name": "Lingonberries",
+        "abbreviation": "L",
+        "color": {
+            "red": 160,
+            "green": 27,
+            "blue": 25,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 160,
+            "green": 27,
+            "blue": 25,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "4efdba01-49a5-4228-8292-5e7076b3d412",
+        "name": "Longan",
+        "abbreviation": "L",
+        "color": {
+            "red": 174,
+            "green": 121,
+            "blue": 60,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 174,
+            "green": 121,
+            "blue": 60,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "3ffb308c-aaa9-4342-a399-7e84bc48e9cc",
+        "name": "Loquat",
+        "abbreviation": "L",
+        "color": {
+            "red": 219,
+            "green": 174,
+            "blue": 31,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 219,
+            "green": 174,
+            "blue": 31,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b9fdf014-2aa0-4714-8037-779ad163c9ac",
+        "name": "Lychee",
+        "abbreviation": "L",
+        "color": {
+            "red": 195,
+            "green": 57,
+            "blue": 49,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 195,
+            "green": 57,
+            "blue": 49,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "f9f999ce-9467-4498-8d0d-3bc545c9015a",
+        "name": "Macadamia Nuts",
+        "abbreviation": "MN",
+        "color": {
+            "red": 174,
+            "green": 108,
+            "blue": 24,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 174,
+            "green": 108,
+            "blue": 24,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "fee75ec1-86ed-4c7e-a336-b60af777c0f0",
+        "name": "Madarins",
+        "abbreviation": "M",
+        "color": {
+            "red": 230,
+            "green": 136,
+            "blue": 23,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 230,
+            "green": 136,
+            "blue": 23,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "1ec10a67-2c17-40fc-9280-34a84518f389",
+        "name": "Malanga",
+        "abbreviation": "M",
+        "color": {
+            "red": 121,
+            "green": 80,
+            "blue": 48,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 121,
+            "green": 80,
+            "blue": 48,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d78a411b-df58-4d2a-af02-674f0f7b03da",
+        "name": "Mamey Sapote",
+        "abbreviation": "MS",
+        "color": {
+            "red": 231,
+            "green": 72,
+            "blue": 24,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 231,
+            "green": 72,
+            "blue": 24,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "6f27cd17-e8f8-4a94-9ef9-038b82d9f01c",
+        "name": "Mandarin",
+        "abbreviation": "M",
+        "color": {
+            "red": 204,
+            "green": 97,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 204,
+            "green": 97,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "fc2b3f19-1842-430f-8442-c3c1ec7ff68b",
+        "name": "Mandarin Orange",
+        "abbreviation": "MO",
+        "color": {
+            "red": 222,
+            "green": 107,
+            "blue": 21,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 222,
+            "green": 107,
+            "blue": 21,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "40b0a709-26e7-4dd5-af55-43c68a261b64",
+        "name": "Mango",
+        "abbreviation": "M",
+        "color": {
+            "red": 208,
+            "green": 155,
+            "blue": 16,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 208,
+            "green": 155,
+            "blue": 16,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7bc236ee-6a75-4e46-b9dd-ef784d9f3a2e",
+        "name": "Mangoes",
+        "abbreviation": "M",
+        "color": {
+            "red": 208,
+            "green": 155,
+            "blue": 16,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 208,
+            "green": 155,
+            "blue": 16,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "1ab70d32-e858-4728-8bcc-1720cd91a20b",
+        "name": "Mangosteen",
+        "abbreviation": "M",
+        "color": {
+            "red": 157,
+            "green": 98,
+            "blue": 46,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 157,
+            "green": 98,
+            "blue": 46,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "bd9eb042-c0dc-4043-a208-fc16e1e0675e",
+        "name": "Medjool Dates",
+        "abbreviation": "MD",
+        "color": {
+            "red": 127,
+            "green": 46,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 127,
+            "green": 46,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "9c2e9126-da8d-4120-8094-31363b3329d6",
+        "name": "Melons",
+        "abbreviation": "M",
+        "color": {
+            "red": 190,
+            "green": 99,
+            "blue": 45,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 190,
+            "green": 99,
+            "blue": 45,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "67fe4507-a794-4409-926c-cb6d03630b3a",
+        "name": "Meyer Lemon",
+        "abbreviation": "ML",
+        "color": {
+            "red": 124,
+            "green": 108,
+            "blue": 52,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 124,
+            "green": 108,
+            "blue": 52,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "8de019ed-6a15-4aa0-b082-bfc81c2680aa",
+        "name": "Mint",
+        "abbreviation": "M",
+        "color": {
+            "red": 42,
+            "green": 127,
+            "blue": 46,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 42,
+            "green": 127,
+            "blue": 46,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "4301f6e6-e0e0-4d9e-af89-2e0c98d0bb13",
+        "name": "Mizuna",
+        "abbreviation": "M",
+        "color": {
+            "red": 103,
+            "green": 133,
+            "blue": 47,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 103,
+            "green": 133,
+            "blue": 47,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b9e44ac4-c038-4e0e-a1ad-2f360cd104ab",
+        "name": "Morels",
+        "abbreviation": "M",
+        "color": {
+            "red": 101,
+            "green": 125,
+            "blue": 32,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 101,
+            "green": 125,
+            "blue": 32,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "8792b39b-81c8-42a3-839e-4e0b09fe268a",
+        "name": "Moroccan Citron",
+        "abbreviation": "MC",
+        "color": {
+            "red": 192,
+            "green": 173,
+            "blue": 45,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 192,
+            "green": 173,
+            "blue": 45,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b74acb89-0cb4-470d-b2d6-3dfbe15332c8",
+        "name": "Mulberry",
+        "abbreviation": "M",
+        "color": {
+            "red": 121,
+            "green": 171,
+            "blue": 36,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 121,
+            "green": 171,
+            "blue": 36,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "0b80e5b2-494e-4b99-a710-896e3ee25c76",
+        "name": "Mushrooms",
+        "abbreviation": "M",
+        "color": {
+            "red": 212,
+            "green": 40,
+            "blue": 47,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 212,
+            "green": 40,
+            "blue": 47,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "4eb69b2b-a8bc-4e7c-835f-5952f6e33925",
+        "name": "Muskmelon",
+        "abbreviation": "M",
+        "color": {
+            "red": 188,
+            "green": 62,
+            "blue": 10,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 188,
+            "green": 62,
+            "blue": 10,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "dc65c122-f326-4561-8945-ecdaae5b4849",
+        "name": "Mustard",
+        "abbreviation": "M",
+        "color": {
+            "red": 240,
+            "green": 205,
+            "blue": 24,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 240,
+            "green": 205,
+            "blue": 24,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "454b9efd-d434-4963-b45c-7ac75ce28a40",
+        "name": "Mustard Greens",
+        "abbreviation": "MG",
+        "color": {
+            "red": 105,
+            "green": 123,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 105,
+            "green": 123,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "f7d61bfd-cb45-4f7a-85e9-76f8f8680eb4",
+        "name": "Myrtle-leaved Orange",
+        "abbreviation": "MO",
+        "color": {
+            "red": 210,
+            "green": 170,
+            "blue": 18,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 210,
+            "green": 170,
+            "blue": 18,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2d0562ba-c698-4239-8a8d-61bb220fdf19",
+        "name": "Napa",
+        "abbreviation": "N",
+        "color": {
+            "red": 189,
+            "green": 151,
+            "blue": 57,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 189,
+            "green": 151,
+            "blue": 57,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "9fddea19-6ebe-4f9b-b1ae-e7d592a7a595",
+        "name": "Naranjilla",
+        "abbreviation": "N",
+        "color": {
+            "red": 182,
+            "green": 35,
+            "blue": 6,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 182,
+            "green": 35,
+            "blue": 6,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "e805a60c-ede6-4658-b769-cb151d944e78",
+        "name": "Navel Oranges",
+        "abbreviation": "NO",
+        "color": {
+            "red": 217,
+            "green": 123,
+            "blue": 10,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 217,
+            "green": 123,
+            "blue": 10,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "6bc74075-461e-4ece-ac2c-6ae66d5d545a",
+        "name": "Nectarines",
+        "abbreviation": "N",
+        "color": {
+            "red": 191,
+            "green": 61,
+            "blue": 22,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 191,
+            "green": 61,
+            "blue": 22,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b0c0926c-4593-47a6-9847-5befd3479df8",
+        "name": "Nettles",
+        "abbreviation": "N",
+        "color": {
+            "red": 74,
+            "green": 116,
+            "blue": 36,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 74,
+            "green": 116,
+            "blue": 36,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "1345c0fb-6658-4fc7-ad0e-ac1ce97738a8",
+        "name": "New Zealand Yam",
+        "abbreviation": "NZ",
+        "color": {
+            "red": 162,
+            "green": 100,
+            "blue": 29,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 162,
+            "green": 100,
+            "blue": 29,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "e591b80c-4917-45b9-9df4-47b8c428dec8",
+        "name": "Okra",
+        "abbreviation": "O",
+        "color": {
+            "red": 108,
+            "green": 153,
+            "blue": 36,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 108,
+            "green": 153,
+            "blue": 36,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b5820992-a681-4ebb-a31e-89d798b90655",
+        "name": "Olives",
+        "abbreviation": "O",
+        "color": {
+            "red": 180,
+            "green": 155,
+            "blue": 29,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 180,
+            "green": 155,
+            "blue": 29,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "f713b498-ba7b-4e6d-b3d6-b88e3f11d5ac",
+        "name": "Onions",
+        "abbreviation": "O",
+        "color": {
+            "red": 192,
+            "green": 103,
+            "blue": 42,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 192,
+            "green": 103,
+            "blue": 42,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "84ce4b68-4152-4ec3-8915-b7e4b4153b1a",
+        "name": "Oranges",
+        "abbreviation": "O",
+        "color": {
+            "red": 130,
+            "green": 45,
+            "blue": 6,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 130,
+            "green": 45,
+            "blue": 6,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "3dfca35e-f1e1-4bda-bd5e-40c46b88d67a",
+        "name": "Oroblanco Grapefruit",
+        "abbreviation": "OG",
+        "color": {
+            "red": 204,
+            "green": 186,
+            "blue": 28,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 204,
+            "green": 186,
+            "blue": 28,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "38bf043c-c32f-41c7-879c-495400eb367e",
+        "name": "Papayas",
+        "abbreviation": "P",
+        "color": {
+            "red": 237,
+            "green": 121,
+            "blue": 36,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 237,
+            "green": 121,
+            "blue": 36,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "75c33c23-6290-44c7-bf55-8d190538f4ab",
+        "name": "Papeda",
+        "abbreviation": "P",
+        "color": {
+            "red": 195,
+            "green": 94,
+            "blue": 22,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 195,
+            "green": 94,
+            "blue": 22,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "1d05d453-e667-4d7d-80c9-e596fb168363",
+        "name": "Paprika",
+        "abbreviation": "P",
+        "color": {
+            "red": 192,
+            "green": 47,
+            "blue": 42,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 192,
+            "green": 47,
+            "blue": 42,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "6b9de5b0-34a4-42ea-a3d1-0fe7c35a16a3",
+        "name": "Parsley",
+        "abbreviation": "P",
+        "color": {
+            "red": 91,
+            "green": 155,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 91,
+            "green": 155,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ec184a2b-8684-48b3-acf0-85e4efac998a",
+        "name": "Parsley Root",
+        "abbreviation": "PR",
+        "color": {
+            "red": 146,
+            "green": 141,
+            "blue": 58,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 146,
+            "green": 141,
+            "blue": 58,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "763a9e59-6517-4ea0-9c19-1083b335c97c",
+        "name": "Passion Fruit",
+        "abbreviation": "PF",
+        "color": {
+            "red": 199,
+            "green": 157,
+            "blue": 23,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 199,
+            "green": 157,
+            "blue": 23,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d6841f03-0fe6-42b1-94c4-087628b89f59",
+        "name": "Pea Beans",
+        "abbreviation": "PB",
+        "color": {
+            "red": 171,
+            "green": 16,
+            "blue": 17,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 171,
+            "green": 16,
+            "blue": 17,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "800b7bcd-c2da-4846-b8bf-3a4ec1d18c49",
+        "name": "Pea Pods",
+        "abbreviation": "PP",
+        "color": {
+            "red": 94,
+            "green": 117,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 94,
+            "green": 117,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "e8ffcb80-cc4e-4977-aede-99d8314e9477",
+        "name": "Peach",
+        "abbreviation": "P",
+        "color": {
+            "red": 216,
+            "green": 99,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 216,
+            "green": 99,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "032c1a19-c7d5-4474-8d30-992e6169a4c5",
+        "name": "Peaches",
+        "abbreviation": "P",
+        "color": {
+            "red": 215,
+            "green": 98,
+            "blue": 38,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 215,
+            "green": 98,
+            "blue": 38,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "a82dc56c-6e5d-4e82-88ac-2f531ae84630",
+        "name": "Peanuts",
+        "abbreviation": "P",
+        "color": {
+            "red": 168,
+            "green": 124,
+            "blue": 50,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 168,
+            "green": 124,
+            "blue": 50,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "a7ab5ca7-bcef-4260-b86e-cc6d9ec55177",
+        "name": "Pears",
+        "abbreviation": "P",
+        "color": {
+            "red": 116,
+            "green": 113,
+            "blue": 36,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 116,
+            "green": 113,
+            "blue": 36,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "cb201810-3586-4427-93d1-874712c186f3",
+        "name": "Peas",
+        "abbreviation": "P",
+        "color": {
+            "red": 99,
+            "green": 121,
+            "blue": 11,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 99,
+            "green": 121,
+            "blue": 11,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "724d2815-9cc8-4589-9017-3bfc55e4861e",
+        "name": "Pecan",
+        "abbreviation": "P",
+        "color": {
+            "red": 155,
+            "green": 84,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 155,
+            "green": 84,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "34b87eb9-51a8-40a0-9e39-16872119fb56",
+        "name": "Pepino",
+        "abbreviation": "P",
+        "color": {
+            "red": 217,
+            "green": 166,
+            "blue": 65,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 217,
+            "green": 166,
+            "blue": 65,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d09f7f1e-a1f5-42c7-9c3b-1947d78088d5",
+        "name": "Peppers",
+        "abbreviation": "P",
+        "color": {
+            "red": 229,
+            "green": 199,
+            "blue": 33,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 229,
+            "green": 199,
+            "blue": 33,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "0d8094cf-be51-4534-8cee-96a70809aa2e",
+        "name": "Persian Lime",
+        "abbreviation": "PL",
+        "color": {
+            "red": 125,
+            "green": 183,
+            "blue": 32,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 125,
+            "green": 183,
+            "blue": 32,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "8b93efea-5f9f-469a-9936-a145c0f3542a",
+        "name": "Persimmon – Japanese",
+        "abbreviation": "P–",
+        "color": {
+            "red": 196,
+            "green": 86,
+            "blue": 19,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 196,
+            "green": 86,
+            "blue": 19,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "81fd3966-f9e9-4f5d-b07a-cfe5557afa87",
+        "name": "Persimmons",
+        "abbreviation": "P",
+        "color": {
+            "red": 198,
+            "green": 84,
+            "blue": 41,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 198,
+            "green": 84,
+            "blue": 41,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "61f6c8c5-f892-477c-938b-1cad045686d4",
+        "name": "Pimento",
+        "abbreviation": "P",
+        "color": {
+            "red": 192,
+            "green": 90,
+            "blue": 22,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 192,
+            "green": 90,
+            "blue": 22,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d63b05ad-c7a2-4240-93d8-34e2e7eb03fb",
+        "name": "Pine Nuts",
+        "abbreviation": "PN",
+        "color": {
+            "red": 109,
+            "green": 73,
+            "blue": 55,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 109,
+            "green": 73,
+            "blue": 55,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "9fe46eba-1909-4066-9517-b74a768540cf",
+        "name": "Pineapples",
+        "abbreviation": "P",
+        "color": {
+            "red": 226,
+            "green": 161,
+            "blue": 28,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 226,
+            "green": 161,
+            "blue": 28,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "22ab0fb3-3860-4d8e-b1d7-b337eeae516f",
+        "name": "Pinto Beans",
+        "abbreviation": "PB",
+        "color": {
+            "red": 113,
+            "green": 57,
+            "blue": 38,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 113,
+            "green": 57,
+            "blue": 38,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "610ffb24-5181-4b58-9d47-fa8c7632e35b",
+        "name": "Pistachio",
+        "abbreviation": "P",
+        "color": {
+            "red": 159,
+            "green": 146,
+            "blue": 59,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 159,
+            "green": 146,
+            "blue": 59,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2365f4dd-127d-404a-90c7-baaa442c42fd",
+        "name": "Pitanga",
+        "abbreviation": "P",
+        "color": {
+            "red": 123,
+            "green": 26,
+            "blue": 19,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 123,
+            "green": 26,
+            "blue": 19,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "365a7b32-fdce-49aa-901d-f78ccddf2e96",
+        "name": "Pitaya",
+        "abbreviation": "P",
+        "color": {
+            "red": 108,
+            "green": 115,
+            "blue": 38,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 108,
+            "green": 115,
+            "blue": 38,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "49383ae7-487e-4223-9731-741cec3956d0",
+        "name": "Plantains",
+        "abbreviation": "P",
+        "color": {
+            "red": 200,
+            "green": 160,
+            "blue": 61,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 200,
+            "green": 160,
+            "blue": 61,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "9c48926d-e4e8-489d-856c-3cb06505722a",
+        "name": "Plums",
+        "abbreviation": "P",
+        "color": {
+            "red": 194,
+            "green": 72,
+            "blue": 48,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 194,
+            "green": 72,
+            "blue": 48,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c289ca30-30f2-48de-9f41-94b73e89e9be",
+        "name": "Pluots",
+        "abbreviation": "P",
+        "color": {
+            "red": 104,
+            "green": 174,
+            "blue": 13,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 104,
+            "green": 174,
+            "blue": 13,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d36d5dc1-ee3a-4ed1-b89a-01d72e6905e4",
+        "name": "Pomegranates",
+        "abbreviation": "P",
+        "color": {
+            "red": 167,
+            "green": 22,
+            "blue": 40,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 167,
+            "green": 22,
+            "blue": 40,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "f17ce2e1-5744-463f-bea7-fe4648635e69",
+        "name": "Pomelo",
+        "abbreviation": "P",
+        "color": {
+            "red": 123,
+            "green": 119,
+            "blue": 46,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 123,
+            "green": 119,
+            "blue": 46,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "1b9c24e3-fa70-4b0d-a9f6-9eefe3fbafdd",
+        "name": "Pomme",
+        "abbreviation": "P",
+        "color": {
+            "red": 171,
+            "green": 19,
+            "blue": 44,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 171,
+            "green": 19,
+            "blue": 44,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "fd44bde5-42e3-4f2f-afe6-4741cc4c61fb",
+        "name": "Ponderosa Lemon",
+        "abbreviation": "PL",
+        "color": {
+            "red": 148,
+            "green": 140,
+            "blue": 57,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 148,
+            "green": 140,
+            "blue": 57,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "bea9b65a-e4a1-4cab-8871-6ae6f37b2f72",
+        "name": "Potatoes",
+        "abbreviation": "P",
+        "color": {
+            "red": 161,
+            "green": 134,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 161,
+            "green": 134,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2ffd9d27-37e9-4156-b644-82bd5184bc59",
+        "name": "Prickly Pear",
+        "abbreviation": "PP",
+        "color": {
+            "red": 173,
+            "green": 91,
+            "blue": 60,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 173,
+            "green": 91,
+            "blue": 60,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "10c60f1a-a4b0-4c40-86c4-df8a13f3e068",
+        "name": "Prunes",
+        "abbreviation": "P",
+        "color": {
+            "red": 215,
+            "green": 211,
+            "blue": 213,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 215,
+            "green": 211,
+            "blue": 213,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7b8611e8-288b-4fe1-b9f5-b5076f21e0c8",
+        "name": "Pummelo",
+        "abbreviation": "P",
+        "color": {
+            "red": 217,
+            "green": 172,
+            "blue": 63,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 217,
+            "green": 172,
+            "blue": 63,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c244b7bb-c823-413b-909a-f97e97322b11",
+        "name": "Pumpkin Seeds",
+        "abbreviation": "PS",
+        "color": {
+            "red": 222,
+            "green": 204,
+            "blue": 177,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 222,
+            "green": 204,
+            "blue": 177,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "91ab32f3-2609-42c7-8a28-da9d8813366a",
+        "name": "Pumpkins",
+        "abbreviation": "P",
+        "color": {
+            "red": 146,
+            "green": 56,
+            "blue": 6,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 146,
+            "green": 56,
+            "blue": 6,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ae8ace01-8364-4d5d-ad97-f3eafc7a93f1",
+        "name": "Quinces",
+        "abbreviation": "Q",
+        "color": {
+            "red": 126,
+            "green": 125,
+            "blue": 26,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 126,
+            "green": 125,
+            "blue": 26,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "84ad6ae3-860a-4757-ab2b-bf5208ff7673",
+        "name": "Quinoa",
+        "abbreviation": "Q",
+        "color": {
+            "red": 148,
+            "green": 101,
+            "blue": 49,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 148,
+            "green": 101,
+            "blue": 49,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "35dfa7e7-a318-4458-9b29-5200a1afc231",
+        "name": "Radicchio",
+        "abbreviation": "R",
+        "color": {
+            "red": 111,
+            "green": 43,
+            "blue": 55,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 111,
+            "green": 43,
+            "blue": 55,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c441f953-69f3-43c6-b358-da3d21f4a1f9",
+        "name": "Radish",
+        "abbreviation": "R",
+        "color": {
+            "red": 196,
+            "green": 40,
+            "blue": 80,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 196,
+            "green": 40,
+            "blue": 80,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "56337311-3255-4f74-8939-6ff0c014e0bd",
+        "name": "Radishes",
+        "abbreviation": "R",
+        "color": {
+            "red": 199,
+            "green": 34,
+            "blue": 60,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 199,
+            "green": 34,
+            "blue": 60,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "0fd4d2ac-0e88-4c15-b2d0-a66779ccdc8c",
+        "name": "Raisins",
+        "abbreviation": "R",
+        "color": {
+            "red": 231,
+            "green": 228,
+            "blue": 223,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 231,
+            "green": 228,
+            "blue": 223,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "f623d9ab-14de-4eac-b9e5-4439da5655eb",
+        "name": "Rambutan",
+        "abbreviation": "R",
+        "color": {
+            "red": 160,
+            "green": 128,
+            "blue": 52,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 160,
+            "green": 128,
+            "blue": 52,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "04462fdb-fd29-4a39-960f-2f2c928831d6",
+        "name": "Rangpur",
+        "abbreviation": "R",
+        "color": {
+            "red": 153,
+            "green": 170,
+            "blue": 182,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 153,
+            "green": 170,
+            "blue": 182,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7b816239-1e53-4784-951d-4171e578233e",
+        "name": "Rapini",
+        "abbreviation": "R",
+        "color": {
+            "red": 98,
+            "green": 140,
+            "blue": 26,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 98,
+            "green": 140,
+            "blue": 26,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "95252e56-cca4-4145-9c92-3cc0285ed433",
+        "name": "Raspberries",
+        "abbreviation": "R",
+        "color": {
+            "red": 169,
+            "green": 44,
+            "blue": 45,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 169,
+            "green": 44,
+            "blue": 45,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ccc2ae39-33ec-4280-99e2-148cb07fd304",
+        "name": "Red Apples",
+        "abbreviation": "RA",
+        "color": {
+            "red": 111,
+            "green": 12,
+            "blue": 10,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 111,
+            "green": 12,
+            "blue": 10,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "78d106a6-33a9-4372-a9fe-4e4394c0e216",
+        "name": "Red Beets",
+        "abbreviation": "RB",
+        "color": {
+            "red": 145,
+            "green": 27,
+            "blue": 55,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 145,
+            "green": 27,
+            "blue": 55,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2c105b7f-656a-4138-88fb-f98c8d4a6b7a",
+        "name": "Red Bell Peppers",
+        "abbreviation": "RB",
+        "color": {
+            "red": 101,
+            "green": 116,
+            "blue": 38,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 101,
+            "green": 116,
+            "blue": 38,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "49ecb94c-f26f-4126-9725-11cc648e46cc",
+        "name": "Red Cabbage",
+        "abbreviation": "RC",
+        "color": {
+            "red": 149,
+            "green": 31,
+            "blue": 107,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 149,
+            "green": 31,
+            "blue": 107,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "96ee36f4-c44f-4794-b8d5-91f1a846b024",
+        "name": "Red Currants",
+        "abbreviation": "RC",
+        "color": {
+            "red": 12,
+            "green": 131,
+            "blue": 88,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 12,
+            "green": 131,
+            "blue": 88,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "3b1e3daa-733b-460f-9693-6f1022c72ee9",
+        "name": "Red Grapefruits",
+        "abbreviation": "RG",
+        "color": {
+            "red": 181,
+            "green": 78,
+            "blue": 34,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 181,
+            "green": 78,
+            "blue": 34,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "4bd17041-ffeb-441a-8808-04c9a4152ad1",
+        "name": "Red Grapes",
+        "abbreviation": "RG",
+        "color": {
+            "red": 131,
+            "green": 49,
+            "blue": 57,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 131,
+            "green": 49,
+            "blue": 57,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "38e5f4b8-88d9-4a54-a3f4-060145560d9c",
+        "name": "Red Onions",
+        "abbreviation": "RO",
+        "color": {
+            "red": 105,
+            "green": 31,
+            "blue": 66,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 105,
+            "green": 31,
+            "blue": 66,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b3ba80c4-d95d-44f4-a112-8ea2f7bd9d33",
+        "name": "Red Pears",
+        "abbreviation": "RP",
+        "color": {
+            "red": 123,
+            "green": 24,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 123,
+            "green": 24,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "96d4aefb-14f0-4383-9120-2ddd06280d60",
+        "name": "Red Peppers",
+        "abbreviation": "RP",
+        "color": {
+            "red": 107,
+            "green": 125,
+            "blue": 25,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 107,
+            "green": 125,
+            "blue": 25,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c36cf342-94ce-4bd8-b04c-db0bee8f27a2",
+        "name": "Red Potatoes",
+        "abbreviation": "RP",
+        "color": {
+            "red": 183,
+            "green": 122,
+            "blue": 37,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 183,
+            "green": 122,
+            "blue": 37,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "534d447f-7e17-4279-9f87-77873b569612",
+        "name": "Red and White Currants",
+        "abbreviation": "RA",
+        "color": {
+            "red": 179,
+            "green": 108,
+            "blue": 54,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 179,
+            "green": 108,
+            "blue": 54,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "79033a4b-2e30-40e9-8285-492fc1b8f345",
+        "name": "Rhubarb",
+        "abbreviation": "R",
+        "color": {
+            "red": 179,
+            "green": 40,
+            "blue": 57,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 179,
+            "green": 40,
+            "blue": 57,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "dc640761-7547-4a6c-8fda-e9a3ab9f448d",
+        "name": "Rhubarb Leaves",
+        "abbreviation": "RL",
+        "color": {
+            "red": 152,
+            "green": 39,
+            "blue": 52,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 152,
+            "green": 39,
+            "blue": 52,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "77b10515-8091-4ee4-925e-2daf31fac4b0",
+        "name": "Romaine",
+        "abbreviation": "R",
+        "color": {
+            "red": 109,
+            "green": 142,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 109,
+            "green": 142,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "1a713ab0-23bb-44ac-928b-8ca43d3a852f",
+        "name": "Romaine Lettuce",
+        "abbreviation": "RL",
+        "color": {
+            "red": 109,
+            "green": 142,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 109,
+            "green": 142,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d27cd4e7-ef26-44aa-8179-518fb1a9b6a1",
+        "name": "Rose Apple",
+        "abbreviation": "RA",
+        "color": {
+            "red": 144,
+            "green": 109,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 144,
+            "green": 109,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2cc6cb3f-3018-4c23-8e5d-e3d9e9d63ec9",
+        "name": "Rose Hip",
+        "abbreviation": "RH",
+        "color": {
+            "red": 217,
+            "green": 25,
+            "blue": 47,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 217,
+            "green": 25,
+            "blue": 47,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c0a42527-f57c-4192-b278-21fc99967410",
+        "name": "Rose-Apple",
+        "abbreviation": "R",
+        "color": {
+            "red": 144,
+            "green": 109,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 144,
+            "green": 109,
+            "blue": 39,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ec26e65e-4afd-4d18-961e-bb5219754e98",
+        "name": "Rosemary",
+        "abbreviation": "R",
+        "color": {
+            "red": 104,
+            "green": 114,
+            "blue": 76,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 104,
+            "green": 114,
+            "blue": 76,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "dd8e5064-801c-4679-b9cd-154442073807",
+        "name": "Round Lime",
+        "abbreviation": "RL",
+        "color": {
+            "red": 108,
+            "green": 139,
+            "blue": 55,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 108,
+            "green": 139,
+            "blue": 55,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "9ccdc39c-a1f2-4e26-a879-14a1f3add32b",
+        "name": "Ruby Red Grapefruit",
+        "abbreviation": "RR",
+        "color": {
+            "red": 181,
+            "green": 78,
+            "blue": 34,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 181,
+            "green": 78,
+            "blue": 34,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ce15ef09-da14-42fc-b6fa-95faf7298e26",
+        "name": "Rutabaga",
+        "abbreviation": "R",
+        "color": {
+            "red": 87,
+            "green": 146,
+            "blue": 46,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 87,
+            "green": 146,
+            "blue": 46,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "909e959e-0eee-4caa-a127-2eccf70463ee",
+        "name": "Saffron",
+        "abbreviation": "S",
+        "color": {
+            "red": 166,
+            "green": 33,
+            "blue": 32,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 166,
+            "green": 33,
+            "blue": 32,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7027f489-9ab8-4efb-940c-07826e4a6d70",
+        "name": "Salak",
+        "abbreviation": "S",
+        "color": {
+            "red": 148,
+            "green": 97,
+            "blue": 31,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 148,
+            "green": 97,
+            "blue": 31,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ee29e657-e89f-4f1d-bdbd-605c9b873df4",
+        "name": "Salsify",
+        "abbreviation": "S",
+        "color": {
+            "red": 104,
+            "green": 73,
+            "blue": 50,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 104,
+            "green": 73,
+            "blue": 50,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ed6d67dc-01f1-4625-aaa0-fc84a34151a2",
+        "name": "Sapodilla",
+        "abbreviation": "S",
+        "color": {
+            "red": 146,
+            "green": 86,
+            "blue": 26,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 146,
+            "green": 86,
+            "blue": 26,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "35ce51a2-8e50-4d56-b887-317217b9035b",
+        "name": "Sapote",
+        "abbreviation": "S",
+        "color": {
+            "red": 198,
+            "green": 117,
+            "blue": 66,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 198,
+            "green": 117,
+            "blue": 66,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "bcb386a4-e0d4-4cf1-8759-634a4f08d7d6",
+        "name": "Satsuma",
+        "abbreviation": "S",
+        "color": {
+            "red": 121,
+            "green": 55,
+            "blue": 6,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 121,
+            "green": 55,
+            "blue": 6,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "0f19c853-acf5-4a04-b2b1-50b760118212",
+        "name": "Scallions",
+        "abbreviation": "S",
+        "color": {
+            "red": 104,
+            "green": 134,
+            "blue": 42,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 104,
+            "green": 134,
+            "blue": 42,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c4c44bf2-b404-43b1-bad5-01fabe21e314",
+        "name": "Sesame Seeds",
+        "abbreviation": "SS",
+        "color": {
+            "red": 119,
+            "green": 101,
+            "blue": 46,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 119,
+            "green": 101,
+            "blue": 46,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "1934f5e9-ee32-4aa2-99fa-2c339fd9c14b",
+        "name": "Shallots",
+        "abbreviation": "S",
+        "color": {
+            "red": 162,
+            "green": 91,
+            "blue": 44,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 162,
+            "green": 91,
+            "blue": 44,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c00e98cb-5f2a-439c-b67b-3fd059898ed0",
+        "name": "Shangjuan",
+        "abbreviation": "S",
+        "color": {
+            "red": 144,
+            "green": 159,
+            "blue": 56,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 144,
+            "green": 159,
+            "blue": 56,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "dbd2648a-ec09-48c5-a966-2770a7be6dad",
+        "name": "Shonan Gold",
+        "abbreviation": "SG",
+        "color": {
+            "red": 187,
+            "green": 178,
+            "blue": 27,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 187,
+            "green": 178,
+            "blue": 27,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "db48b826-1513-4f51-9cd9-d1b748cf10c9",
+        "name": "Snap Peas",
+        "abbreviation": "SP",
+        "color": {
+            "red": 101,
+            "green": 105,
+            "blue": 63,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 101,
+            "green": 105,
+            "blue": 63,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d60ae5e3-9fac-4b6d-b17a-56cbcaadcf22",
+        "name": "Snow Peas",
+        "abbreviation": "SP",
+        "color": {
+            "red": 96,
+            "green": 140,
+            "blue": 32,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 96,
+            "green": 140,
+            "blue": 32,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "a16d99e9-d310-42fb-a04a-f14374966f68",
+        "name": "Soursop",
+        "abbreviation": "S",
+        "color": {
+            "red": 92,
+            "green": 107,
+            "blue": 55,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 92,
+            "green": 107,
+            "blue": 55,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "fd900f6d-3873-47c4-ad45-990902584d99",
+        "name": "Spaghetti Squash",
+        "abbreviation": "SS",
+        "color": {
+            "red": 236,
+            "green": 184,
+            "blue": 27,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 236,
+            "green": 184,
+            "blue": 27,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "5c95c01a-db72-4731-baf7-465fd0f1c604",
+        "name": "Spinach",
+        "abbreviation": "S",
+        "color": {
+            "red": 85,
+            "green": 146,
+            "blue": 21,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 85,
+            "green": 146,
+            "blue": 21,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "bfc41744-53c7-4041-a2e0-4ac937fc4c12",
+        "name": "Spring Onions",
+        "abbreviation": "SO",
+        "color": {
+            "red": 127,
+            "green": 156,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 127,
+            "green": 156,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "bd3ff5bd-4ff4-46f3-a877-286c011d8e87",
+        "name": "Sprouts",
+        "abbreviation": "S",
+        "color": {
+            "red": 132,
+            "green": 31,
+            "blue": 32,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 132,
+            "green": 31,
+            "blue": 32,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b1a7050d-7276-4dda-9c88-3ff79ffb2091",
+        "name": "Squash",
+        "abbreviation": "S",
+        "color": {
+            "red": 120,
+            "green": 92,
+            "blue": 52,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 120,
+            "green": 92,
+            "blue": 52,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "a3a82df9-7ae6-4b60-aaac-8cd7d8776365",
+        "name": "Star Apple",
+        "abbreviation": "SA",
+        "color": {
+            "red": 81,
+            "green": 126,
+            "blue": 36,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 81,
+            "green": 126,
+            "blue": 36,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "f6c4f1b1-1976-40b5-aaf9-a8dde5ba35da",
+        "name": "Star Fruit",
+        "abbreviation": "SF",
+        "color": {
+            "red": 144,
+            "green": 72,
+            "blue": 34,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 144,
+            "green": 72,
+            "blue": 34,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "61adc052-d3f6-4b2a-ae84-7260482d5597",
+        "name": "Strawberries",
+        "abbreviation": "S",
+        "color": {
+            "red": 103,
+            "green": 127,
+            "blue": 30,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 103,
+            "green": 127,
+            "blue": 30,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "ea2675d1-7dfe-46b0-a4f1-ca0afeb66784",
+        "name": "String Beans",
+        "abbreviation": "SB",
+        "color": {
+            "red": 123,
+            "green": 147,
+            "blue": 36,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 123,
+            "green": 147,
+            "blue": 36,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "902eb940-6741-4831-afe8-0178d6960278",
+        "name": "Sudachi",
+        "abbreviation": "S",
+        "color": {
+            "red": 138,
+            "green": 152,
+            "blue": 68,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 138,
+            "green": 152,
+            "blue": 68,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2ec186b7-671c-4e79-ac7b-5f4946d41281",
+        "name": "Sugar Snap Peas",
+        "abbreviation": "SS",
+        "color": {
+            "red": 136,
+            "green": 171,
+            "blue": 104,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 136,
+            "green": 171,
+            "blue": 104,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "45cc38c2-b16b-45c5-8dc9-110c8258b33c",
+        "name": "Sugar-Apple",
+        "abbreviation": "S",
+        "color": {
+            "red": 115,
+            "green": 117,
+            "blue": 58,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 115,
+            "green": 117,
+            "blue": 58,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "1bed66f6-9f98-4bbe-97ce-4b4b62ddd008",
+        "name": "Summer Squash",
+        "abbreviation": "SS",
+        "color": {
+            "red": 223,
+            "green": 186,
+            "blue": 27,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 223,
+            "green": 186,
+            "blue": 27,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "df7615a8-5915-441f-a444-35421fa03ece",
+        "name": "Sunflower Seeds",
+        "abbreviation": "SS",
+        "color": {
+            "red": 222,
+            "green": 212,
+            "blue": 193,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 222,
+            "green": 212,
+            "blue": 193,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "4cbc8cdb-43f5-460b-9e24-a4c67ee048a4",
+        "name": "Sweet Corn",
+        "abbreviation": "SC",
+        "color": {
+            "red": 226,
+            "green": 179,
+            "blue": 32,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 226,
+            "green": 179,
+            "blue": 32,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "73013d8f-eced-4197-a3b9-7168570a60b3",
+        "name": "Sweet Lime",
+        "abbreviation": "SL",
+        "color": {
+            "red": 122,
+            "green": 134,
+            "blue": 24,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 122,
+            "green": 134,
+            "blue": 24,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "e97b9795-c873-4c4a-859c-8d8c074d0f61",
+        "name": "Sweet Potato",
+        "abbreviation": "SP",
+        "color": {
+            "red": 217,
+            "green": 116,
+            "blue": 16,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 217,
+            "green": 116,
+            "blue": 16,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2520ba7d-e764-4cbf-a4b5-2e7a66cec2fc",
+        "name": "Sweet Potatoes",
+        "abbreviation": "SP",
+        "color": {
+            "red": 217,
+            "green": 116,
+            "blue": 16,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 217,
+            "green": 116,
+            "blue": 16,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d1985340-1a56-4798-9b0f-43f3cd7fc714",
+        "name": "Swiss Chard",
+        "abbreviation": "SC",
+        "color": {
+            "red": 154,
+            "green": 106,
+            "blue": 55,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 154,
+            "green": 106,
+            "blue": 55,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "77c90f34-e312-43b0-b070-4fedf3f334a1",
+        "name": "Taiwan Tangerine",
+        "abbreviation": "TT",
+        "color": {
+            "red": 177,
+            "green": 106,
+            "blue": 11,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 177,
+            "green": 106,
+            "blue": 11,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7490a032-b7bd-45c7-a7cc-6bf643937476",
+        "name": "Tamarind",
+        "abbreviation": "T",
+        "color": {
+            "red": 178,
+            "green": 103,
+            "blue": 37,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 178,
+            "green": 103,
+            "blue": 37,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "46096788-32f0-49a2-91b3-c64da1ea9136",
+        "name": "Tangelos",
+        "abbreviation": "T",
+        "color": {
+            "red": 228,
+            "green": 123,
+            "blue": 15,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 228,
+            "green": 123,
+            "blue": 15,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "139cba63-86cb-46eb-a4ef-38fb7460f059",
+        "name": "Tangerines",
+        "abbreviation": "T",
+        "color": {
+            "red": 156,
+            "green": 62,
+            "blue": 33,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 156,
+            "green": 62,
+            "blue": 33,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7384a6da-de99-4b2c-bd1a-bb6b243bcc25",
+        "name": "Tangor",
+        "abbreviation": "T",
+        "color": {
+            "red": 233,
+            "green": 123,
+            "blue": 32,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 233,
+            "green": 123,
+            "blue": 32,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "f261871c-11b2-4e18-b2ad-77bfa94b08ba",
+        "name": "Taro",
+        "abbreviation": "T",
+        "color": {
+            "red": 100,
+            "green": 67,
+            "blue": 64,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 100,
+            "green": 67,
+            "blue": 64,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "5d66b375-c370-49aa-8e5e-a58b78c5a0ad",
+        "name": "Tart Cherries",
+        "abbreviation": "TC",
+        "color": {
+            "red": 202,
+            "green": 50,
+            "blue": 38,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 202,
+            "green": 50,
+            "blue": 38,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "a41b17c8-909e-4d52-bc12-b8a948da6154",
+        "name": "Tatsoi",
+        "abbreviation": "T",
+        "color": {
+            "red": 204,
+            "green": 191,
+            "blue": 32,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 204,
+            "green": 191,
+            "blue": 32,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "2568f90d-c6ba-4fbd-bdae-ee2868011836",
+        "name": "Thistles",
+        "abbreviation": "T",
+        "color": {
+            "red": 83,
+            "green": 122,
+            "blue": 27,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 83,
+            "green": 122,
+            "blue": 27,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "961a8da2-2f8b-47cb-94d3-07beccffeb29",
+        "name": "Thyme",
+        "abbreviation": "T",
+        "color": {
+            "red": 137,
+            "green": 129,
+            "blue": 43,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 137,
+            "green": 129,
+            "blue": 43,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "92a530dc-278c-4883-abe2-1304c1709013",
+        "name": "Tomatillos",
+        "abbreviation": "T",
+        "color": {
+            "red": 155,
+            "green": 152,
+            "blue": 42,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 155,
+            "green": 152,
+            "blue": 42,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "4f6ef767-4b46-4c14-8b58-6be3eed9f60f",
+        "name": "Tomato",
+        "abbreviation": "T",
+        "color": {
+            "red": 193,
+            "green": 30,
+            "blue": 33,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 193,
+            "green": 30,
+            "blue": 33,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "20b625cf-835d-4d19-9d9a-9c2f087b6858",
+        "name": "Tomatoes",
+        "abbreviation": "T",
+        "color": {
+            "red": 194,
+            "green": 62,
+            "blue": 14,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 194,
+            "green": 62,
+            "blue": 14,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "68a0195c-b221-4383-8dc6-280d245cdd05",
+        "name": "Turmeric",
+        "abbreviation": "T",
+        "color": {
+            "red": 211,
+            "green": 123,
+            "blue": 21,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 211,
+            "green": 123,
+            "blue": 21,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "62dafdb4-8d32-419b-9b6f-2670b303a3e4",
+        "name": "Turnips",
+        "abbreviation": "T",
+        "color": {
+            "red": 94,
+            "green": 124,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 94,
+            "green": 124,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "a3a6fb7f-0ce5-4bf4-9570-fd3d3b67cf02",
+        "name": "Ugli Fruit",
+        "abbreviation": "UF",
+        "color": {
+            "red": 109,
+            "green": 128,
+            "blue": 19,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 109,
+            "green": 128,
+            "blue": 19,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "99d0502f-bfd4-46a9-93ec-ae09d651aae1",
+        "name": "Valencia Oranges",
+        "abbreviation": "VO",
+        "color": {
+            "red": 124,
+            "green": 88,
+            "blue": 68,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 124,
+            "green": 88,
+            "blue": 68,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "3ac99ce7-fd81-469a-9478-eb1dcf564ae5",
+        "name": "Walnut",
+        "abbreviation": "W",
+        "color": {
+            "red": 142,
+            "green": 87,
+            "blue": 37,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 142,
+            "green": 87,
+            "blue": 37,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "19292d10-6075-4e23-80d9-22cc7f778c97",
+        "name": "Wasabi",
+        "abbreviation": "W",
+        "color": {
+            "red": 121,
+            "green": 128,
+            "blue": 61,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 121,
+            "green": 128,
+            "blue": 61,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "7bcedf9f-1c8c-4229-b245-09e257a7f253",
+        "name": "Water Chestnuts",
+        "abbreviation": "WC",
+        "color": {
+            "red": 218,
+            "green": 183,
+            "blue": 68,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 218,
+            "green": 183,
+            "blue": 68,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d0beefda-0b10-43c6-985a-4af0521bf3bf",
+        "name": "Watercress",
+        "abbreviation": "W",
+        "color": {
+            "red": 89,
+            "green": 113,
+            "blue": 53,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 89,
+            "green": 113,
+            "blue": 53,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "b187ee8d-8201-4a62-93b2-307f5de44a8e",
+        "name": "Watermelon",
+        "abbreviation": "W",
+        "color": {
+            "red": 229,
+            "green": 49,
+            "blue": 44,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 229,
+            "green": 49,
+            "blue": 44,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "97d730a4-3612-4fcd-b4d5-bc5d7bd5eea9",
+        "name": "Wax Beans",
+        "abbreviation": "WB",
+        "color": {
+            "red": 185,
+            "green": 160,
+            "blue": 14,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 185,
+            "green": 160,
+            "blue": 14,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "d59c8648-7fd0-4a3a-ad0e-b3e2e10455e9",
+        "name": "Waxed Beans",
+        "abbreviation": "WB",
+        "color": {
+            "red": 183,
+            "green": 117,
+            "blue": 78,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 183,
+            "green": 117,
+            "blue": 78,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "468b4709-533c-4664-bba2-6ffb1455c6af",
+        "name": "White Button Mushrooms",
+        "abbreviation": "WB",
+        "color": {
+            "red": 166,
+            "green": 114,
+            "blue": 54,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 166,
+            "green": 114,
+            "blue": 54,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "0d8fc479-0940-4f0f-aad1-12a996a644a9",
+        "name": "White Grapefruit",
+        "abbreviation": "WG",
+        "color": {
+            "red": 234,
+            "green": 197,
+            "blue": 31,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 234,
+            "green": 197,
+            "blue": 31,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "1837bb42-e853-431b-901a-e78b583d1c0d",
+        "name": "White Mushrooms",
+        "abbreviation": "WM",
+        "color": {
+            "red": 205,
+            "green": 205,
+            "blue": 196,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 205,
+            "green": 205,
+            "blue": 196,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "3b9ead51-2917-4d74-bd89-6b16006a5a24",
+        "name": "White Potatoes",
+        "abbreviation": "WP",
+        "color": {
+            "red": 161,
+            "green": 117,
+            "blue": 47,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 161,
+            "green": 117,
+            "blue": 47,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "641a10e1-6e9d-4bbc-9fc9-d9d9211e153a",
+        "name": "White Rice",
+        "abbreviation": "WR",
+        "color": {
+            "red": 156,
+            "green": 94,
+            "blue": 52,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 156,
+            "green": 94,
+            "blue": 52,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "cadfdbf0-ef1f-4256-9b97-4168697e908b",
+        "name": "Winter Squash",
+        "abbreviation": "WS",
+        "color": {
+            "red": 208,
+            "green": 114,
+            "blue": 34,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 208,
+            "green": 114,
+            "blue": 34,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "eb80245b-f87c-4858-af70-8b0d9491de8c",
+        "name": "Yams",
+        "abbreviation": "Y",
+        "color": {
+            "red": 167,
+            "green": 62,
+            "blue": 40,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 167,
+            "green": 62,
+            "blue": 40,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "90a97690-36e0-453a-a53d-6e76a8ba159b",
+        "name": "Yard-long Beans",
+        "abbreviation": "YB",
+        "color": {
+            "red": 180,
+            "green": 207,
+            "blue": 142,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 180,
+            "green": 207,
+            "blue": 142,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "8f4feca4-3451-4767-8acc-759900061502",
+        "name": "Yellow Squash",
+        "abbreviation": "YS",
+        "color": {
+            "red": 129,
+            "green": 67,
+            "blue": 28,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 129,
+            "green": 67,
+            "blue": 28,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "55c9e0ea-4260-4f25-ada9-57414831490f",
+        "name": "Yuca Root",
+        "abbreviation": "YR",
+        "color": {
+            "red": 119,
+            "green": 76,
+            "blue": 33,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 119,
+            "green": 76,
+            "blue": 33,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "c7e214db-8df8-4fdb-8be6-f737bf34dcbe",
+        "name": "Yuca/Cassava",
+        "abbreviation": "Y",
+        "color": {
+            "red": 142,
+            "green": 88,
+            "blue": 35,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 142,
+            "green": 88,
+            "blue": 35,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "6482da9e-e150-44f2-b7ac-98183de23316",
+        "name": "Yuzu",
+        "abbreviation": "Y",
+        "color": {
+            "red": 241,
+            "green": 194,
+            "blue": 19,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 241,
+            "green": 194,
+            "blue": 19,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "0a88b8d3-8e70-4f0e-889b-ad16d807bc0d",
+        "name": "Zucchini",
+        "abbreviation": "Z",
+        "color": {
+            "red": 90,
+            "green": 130,
+            "blue": 48,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 90,
+            "green": 130,
+            "blue": 48,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "3786364a-b628-4117-a8a8-9ff1dcbbc444",
+        "name": "Zucchini Squash",
+        "abbreviation": "ZS",
+        "color": {
+            "red": 74,
+            "green": 85,
+            "blue": 59,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 74,
+            "green": 85,
+            "blue": 59,
+            "alpha": 1
+        }
+    },
+    {
+        "id": "27202012-d75c-4ba9-adac-c13563bcb70c",
+        "name": "lime",
+        "abbreviation": "L",
+        "color": {
+            "red": 98,
+            "green": 131,
+            "blue": 39,
+            "alpha": 1
+        },
+        "shadowColor": {
+            "red": 98,
+            "green": 131,
+            "blue": 39,
+            "alpha": 1
+        }
+    }
+]

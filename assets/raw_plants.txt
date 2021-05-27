@@ -1,4 +1,3 @@
-
 Apricots
 Artichokes
 Arugula
@@ -399,22 +398,22 @@ Turnips
 Watercress
 Yard-long Beans
 Zucchini
-Acorn Squash (without seeds)
+Acorn Squash 
 Asparagus Tips
 Beets 
 Cantaloupe
 Carrots 
-Cucumber (without skin or seeds)
+Cucumber 
 Honeydew Melon
 Lettuce
 Nectarines
 Papayas
 Peaches
 Plums
-Spinach (pureed)
+Spinach 
 String Beans
 Watermelon
-White Potatoes (without skin)
+White Potatoes 
 Zucchini
 Acorn Squash
 Apples
@@ -478,55 +477,55 @@ Watermelon
 White Button Mushrooms
 White Potatoes
 Zucchini
-Tamarind (47g per cup)
-Fried Plantains (37g per cup)
-Mamey Sapote (35g per cup)
-Jackfruit (31g per cup)
-Soursop (30 per cup)
-Lychee (29g per cup)
-Passion Fruit (26g per cup)
-Breadfruit (24g per cup)
-Pomegranate (24g per cup)
-Mango (23g per cup)
-Cherimoya (21g per cup)
-Persimmons (21g per cup)
-Cherries (20g per cup)
-Bananas (18g per cup)
-Oranges (17g per cup)
-Figs (16g per cup)
-Watermelon (14g per cup)
-Kiwi (16g per cup)
-Grapes (15g per cup)
-Guavas (15g per cup)
-Pears (14g per cup)
-Apples (13g per cup)
-Peaches (13g per cup)
-Papaya (11g per cup)
-Nectarines (11g per cup)
-Casaba Melon (9.7g per cup)
-Peaches (7.4g per cup)
-Asian Pear (8.6g per cup)
-Red and White Currants (8.3g per cup)
-Honeydew Melons (7.1g per cup)
-Blackberries (7g per cup)
-Strawberries (8.1g per cup)
-Apricots (6.6g per cup)
-Raspberries (5.4g per cup)
-Cantaloupe (5g per cup)
-Cranberries (4.7g per cup)
-Carambola (4.3g per cup)
-Avocado (1.33g per cup)
-Olives (0g per cup)
-Olives (0g per 100g)
-Avocados (0.7g per 100g)
-Carambola (4g per 100g)
-Cranberries (4.3 per 100g)
-Raspberries (4.4g per 100g)
-Blackberries (4.9g per 100g)
-Strawberries (4.9g per 100g)
-Casaba Melon (5.7g per 100g)
-Red and White Currants (7.4g per 100g)
-Asian Pear (7.1g per 100g)
+Tamarind 
+Fried Plantains 
+Mamey Sapote 
+Jackfruit 
+Soursop 
+Lychee 
+Passion Fruit 
+Breadfruit 
+Pomegranate 
+Mango 
+Cherimoya 
+Persimmons 
+Cherries 
+Bananas 
+Oranges 
+Figs 
+Watermelon 
+Kiwi 
+Grapes 
+Guavas 
+Pears 
+Apples 
+Peaches 
+Papaya 
+Nectarines 
+Casaba Melon 
+Peaches 
+Asian Pear 
+Red and White Currants 
+Honeydew Melons 
+Blackberries 
+Strawberries 
+Apricots 
+Raspberries 
+Cantaloupe 
+Cranberries 
+Carambola 
+Avocado 
+Olives 
+Olives 
+Avocados 
+Carambola 
+Cranberries 
+Raspberries 
+Blackberries 
+Strawberries 
+Casaba Melon 
+Red and White Currants 
+Asian Pear 
 Almonds
 Apples 
 Apricots
@@ -648,7 +647,7 @@ Star Fruit
 Tamarind 
 Watermelon
 Avocado
-Bell Peppers (red, orange, yellow, green)
+Bell Peppers 
 Chickpeas
 Corn
 Cucumber
@@ -685,11 +684,11 @@ Kohlrabi
 Komatsuna
 Land Cress
 Mizuna
-Mustard (leaves and seeds)
+Mustard 
 Radishes
 Rutabagas
 Tatsoi
-Turnips (greens and roots)
+Turnips 
 Wasabi
 Watercress
 Beets
@@ -861,139 +860,73 @@ Zucchini
 Acerola
 Pomme
 Apple
-
 Apricots
-
 Avocado
-
 Banana
-
 Blackberries
-
 Blackcurrant
-
 Blueberries
-
 Breadfruit
-
 Cantaloupe
-
 Carambola
-
 Cherimoya
-
 Cherries
-
 Clementine
-
 Coconut Meat
-
 Cranberries
-
 Custard-Apple
-
 Date Fruit
-
 Durian
-
 Elderberries
-
 Feijoa
-
 Figs
-
 Gooseberries
-
 Grapefruit
-
 Grapes
-
 Guava
-
 Honeydew Melon
-
 Jackfruit
-
 Java-Plum
-
 Jujube Fruit
-
 Kiwifruit
-
 Kumquat
-
 Lemon
 lime
 Lime
-
 Longan
-
 Loquat
-
 Lychee
-
 Mandarin
-
 Mango
-
 Mangosteen
-
 Mulberries
-
 Nectarine
-
 Olives
-
 Orange
-
 Papaya
-
 Passion Fruit
-
 Peaches
-
 Pear
-
 Persimmon – Japanese
-
-Pitaya (Dragonfruit)
-
+Pitaya 
 Pineapple
-
 Pitanga
-
 Plantain
-
 Plums
-
 Pomegranate
-
 Prickly Pear
-
 Prunes
-
 Pummelo
-
 Quince
-
 Raspberries
-
 Rhubarb
-
 Rose-Apple
-
 Sapodilla
-
 Sapote, Mamey
-
 Soursop
-
 Strawberries
-
 Sugar-Apple
-
 Tamarind
-
 Tangerine
 Alfalfa Sprouts
 Apple
@@ -1140,3 +1073,23 @@ Brazil Nuts
 White Rice
 Brown Rice
 Quinoa
+Cashews
+Peanuts
+Macadamia Nuts
+Hazelnuts
+Pecans
+Almonds
+Pistachios
+Brazil Nuts
+Walnuts
+Chestnuts
+Sunflower Seeds
+Kola Nuts
+Pumpkin Seeds
+Flaxseeds
+Cacao
+Cedar Nuts 
+Pine Nuts
+Acorns
+Coconut
+Ginkgo nuts
