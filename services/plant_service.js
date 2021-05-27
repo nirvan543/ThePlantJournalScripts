@@ -31,6 +31,9 @@ function processRawPlants(rawPlants) {
         if (badIndex < 0) {
             badIndex = plant.indexOf(",");
         }
+        if (badIndex < 0) {
+            badIndex = plant.indexOf("/");
+        }
 
         if (badIndex < 0) {
             let plantName = plant.trim();
